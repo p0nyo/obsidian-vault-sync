@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:210  ",
+      "color": {
+        "a": 1,
+        "rgb": 9052337
+      }
+    },
+    {
+      "query": "path:215  ",
+      "color": {
+        "a": 1,
+        "rgb": 2328354
+      }
+    },
+    {
+      "query": "path:220  ",
+      "color": {
+        "a": 1,
+        "rgb": 3236548
+      }
+    },
+    {
+      "query": "path:EDUC121  ",
+      "color": {
+        "a": 1,
+        "rgb": 13286433
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.40136311848958,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.492156034361358,
+  "repelStrength": 13.5147162371497,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.6481190303149522,
+  "close": true
+}
