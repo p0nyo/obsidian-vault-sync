@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "215/Ciphers.md",
+                "file": "215/Star Topology.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "215/Ciphers.md",
+                "file": "215/Star Topology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "215/Ciphers.md",
+                "file": "215/Star Topology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "215/Ciphers.md"
+                "file": "215/Star Topology.md"
               }
             }
           }
@@ -166,8 +166,10 @@
   },
   "active": "42d6494761684fbc",
   "lastOpenFiles": [
-    "210/dninweodoiendoie.md",
+    "215/Network Topology.md",
+    "215/Network Components.md",
     "215/Ciphers.md",
+    "210/dninweodoiendoie.md",
     "210/NO WAY I DID THIS.md",
     "215/WOW.md",
     "215/Vigenere Cipher.md",
@@ -184,14 +186,12 @@
     "215/Cipher Block Chaining (CBC).md",
     "215/Mesh Topology.md",
     "215/Communication Protocol.md",
-    "215/Network Topology.md",
     "215/Kasiski Test.md",
     "215/Feistel Networks.md",
     "215/Substitution Box (S-Box).md",
     "215/Block Ciphers.md",
     "215/Modern Block Ciphers.md",
     "215/Substitution-Permutation (SP) Network.md",
-    "215/Unbalanced Feistel Networks.md",
     "Pasted image 20240508173133.png",
     "Pasted image 20240508172543.png",
     "Pasted image 20240508172302.png",
