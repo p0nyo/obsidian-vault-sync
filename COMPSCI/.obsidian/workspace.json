@@ -103,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "215/Star Topology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "215/Star Topology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "215/Star Topology.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -164,8 +160,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42d6494761684fbc",
+  "active": "a1a2132a66a4a2b1",
   "lastOpenFiles": [
+    "215/Star Topology.md",
     "215/Network Topology.md",
     "215/Network Components.md",
     "215/Ciphers.md",
@@ -191,7 +188,6 @@
     "215/Substitution Box (S-Box).md",
     "215/Block Ciphers.md",
     "215/Modern Block Ciphers.md",
-    "215/Substitution-Permutation (SP) Network.md",
     "Pasted image 20240508173133.png",
     "Pasted image 20240508172543.png",
     "Pasted image 20240508172302.png",
