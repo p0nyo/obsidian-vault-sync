@@ -6,7 +6,7 @@
       {
         "id": "95b899c7ca0b4812",
         "type": "tabs",
-        "dimension": 44.61264470169189,
+        "dimension": 58.94924309884239,
         "children": [
           {
             "id": "42d6494761684fbc",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "215/Block Cipher Mode of Operation.md",
+                "file": "220/Digraphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "632dacd52dadfef0",
         "type": "tabs",
-        "dimension": 55.38735529830811,
+        "dimension": 41.05075690115761,
         "children": [
           {
             "id": "a1a2132a66a4a2b1",
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "215/Block Cipher Mode of Operation.md",
+                "file": "220/Digraphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "215/Block Cipher Mode of Operation.md",
+                "file": "220/Digraphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "215/Block Cipher Mode of Operation.md"
+                "file": "220/Digraphs.md"
               }
             }
           }
@@ -167,12 +167,13 @@
   },
   "active": "42d6494761684fbc",
   "lastOpenFiles": [
+    "215/Block Cipher Mode of Operation.md",
+    "215/Electronic Code Book (ECB).md",
     "215/Network Topology.md",
     "220/Sub-Digraphs.md",
     "220/Graph ADTs.md",
     "215/Decryption.md",
     "215/Ciphers.md",
-    "215/Block Cipher Mode of Operation.md",
     "215/Output Feedback (OFB).md",
     "220/Digraphs.md",
     "220/Graphs.md",
@@ -189,7 +190,6 @@
     "215/Simple Transposition Ciphers.md",
     "215/Cipher Feedback (CFB).md",
     "215/Counter Mode (CTR).md",
-    "215/Electronic Code Book (ECB).md",
     "215/Cipher Block Chaining (CBC).md",
     "215/Mesh Topology.md",
     "215/Communication Protocol.md",
