@@ -11,7 +11,7 @@ $$G = (V,E)$$
 	1. Vertices are now a set of **nodes**
 	2. Edges are an ordered set of pairs representing **arcs**
 
-![[Pasted image 20240502133234.png|200]]
+![[Pasted image 20240502133234.png|150]]
 #### Example
 $$V=\{0,1,2,3,4\}$$
 $$E=\{(0,2),(1,0),(1,3),(1,4),(3,4),(4,1)\}$$
