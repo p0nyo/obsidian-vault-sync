@@ -6,7 +6,7 @@
       {
         "id": "95b899c7ca0b4812",
         "type": "tabs",
-        "dimension": 43.365983971504896,
+        "dimension": 44.61264470169189,
         "children": [
           {
             "id": "42d6494761684fbc",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220/Digraphs.md",
+                "file": "215/Block Cipher Mode of Operation.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "632dacd52dadfef0",
         "type": "tabs",
-        "dimension": 56.634016028495104,
+        "dimension": 55.38735529830811,
         "children": [
           {
             "id": "a1a2132a66a4a2b1",
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f529f11f5b3bf5e0",
@@ -103,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "215/Block Cipher Mode of Operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "215/Block Cipher Mode of Operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "215/Block Cipher Mode of Operation.md"
+              }
             }
           }
         ]
@@ -160,14 +165,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1a2132a66a4a2b1",
+  "active": "42d6494761684fbc",
   "lastOpenFiles": [
+    "215/Network Topology.md",
+    "220/Sub-Digraphs.md",
+    "220/Graph ADTs.md",
+    "215/Decryption.md",
+    "215/Ciphers.md",
+    "215/Block Cipher Mode of Operation.md",
+    "215/Output Feedback (OFB).md",
     "220/Digraphs.md",
     "220/Graphs.md",
     "215/Star Topology.md",
-    "215/Network Topology.md",
     "215/Network Components.md",
-    "215/Ciphers.md",
     "210/dninweodoiendoie.md",
     "210/NO WAY I DID THIS.md",
     "215/WOW.md",
@@ -176,18 +186,13 @@
     "215/Encryption.md",
     "215/Route Ciphers.md",
     "215/Plaintext Cipher Block Chaining (PCBC).md",
-    "215/Block Cipher Mode of Operation.md",
     "215/Simple Transposition Ciphers.md",
-    "215/Output Feedback (OFB).md",
     "215/Cipher Feedback (CFB).md",
     "215/Counter Mode (CTR).md",
     "215/Electronic Code Book (ECB).md",
     "215/Cipher Block Chaining (CBC).md",
     "215/Mesh Topology.md",
     "215/Communication Protocol.md",
-    "215/Kasiski Test.md",
-    "215/Feistel Networks.md",
-    "215/Substitution Box (S-Box).md",
     "Pasted image 20240508173133.png",
     "Pasted image 20240508172543.png",
     "Pasted image 20240508172302.png",
