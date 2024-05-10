@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "215/Columnar Transposition Ciphers.md",
+                "file": "220/Graphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "215/Columnar Transposition Ciphers.md",
+                "file": "220/Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "215/Columnar Transposition Ciphers.md",
+                "file": "220/Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "215/Columnar Transposition Ciphers.md"
+                "file": "220/Graphs.md"
               }
             }
           }
@@ -164,9 +164,16 @@
   },
   "active": "819522e86b5e8907",
   "lastOpenFiles": [
+    "220/Digraphs.md",
+    "220/Sub-Digraphs.md",
+    "220/Adjacency Matrix Representation.md",
+    "220/Adjacency List Representation.md",
+    "220/Graphs.md",
+    "215/XOR Ciphers.md",
+    "215/Ciphers.md",
+    "215/Columnar Transposition Ciphers.md",
     "215/Simple Transposition Ciphers.md",
     "215/Rail Fence Ciphers (Zig Zag).md",
-    "215/Ciphers.md",
     "215/Modern Block Ciphers.md",
     "215/Bus Topology.md",
     "215/Communication Protocol.md",
@@ -190,17 +197,10 @@
     "215/Encryption.md",
     "215/Modulo-2 Arithmetic.md",
     "220/Tree Representation.md",
-    "220/Adjacency Matrix Representation.md",
     "220/Time and Space Complexity.md",
     "220/Depth First Search.md",
-    "220/Graphs.md",
     "215/Network Components.md",
     "215/Network Types.md",
-    "215/Frequency Analysis.md",
-    "220/Sub-Digraphs.md",
-    "220/Adjacency List Representation.md",
-    "220/Digraphs.md",
-    "210/Call-By-Value.md",
     "Untitled.canvas",
     "COMPSCI 215",
     "215",
