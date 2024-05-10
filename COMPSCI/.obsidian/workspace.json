@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220/Graph ADTs.md",
+                "file": "220/Time and Space Complexity.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f529f11f5b3bf5e0",
@@ -104,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220/Graph ADTs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "220/Graph ADTs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "220/Graph ADTs.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -165,9 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73364cb62ee90368",
+  "active": "a1a2132a66a4a2b1",
   "lastOpenFiles": [
     "220/Time and Space Complexity.md",
+    "220/Graph ADTs.md",
     "220/Tree Representation.md",
     "220/Adjacency List Representation.md",
     "220/Adjacency Matrix Representation.md",
@@ -180,7 +178,6 @@
     "215/Electronic Code Book (ECB).md",
     "215/Network Topology.md",
     "220/Sub-Digraphs.md",
-    "220/Graph ADTs.md",
     "215/Decryption.md",
     "215/Ciphers.md",
     "215/Output Feedback (OFB).md",
