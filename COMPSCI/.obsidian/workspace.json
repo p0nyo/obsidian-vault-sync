@@ -102,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220/Graph Traversal Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "220/Graph Traversal Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "220/Graph Traversal Algorithms.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -163,12 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "819522e86b5e8907",
+  "active": "172f3095c3caae3b",
   "lastOpenFiles": [
+    "220/Graph Traversal Algorithms.md",
+    "images",
     "215/Encryption.md",
     "215/Modulo-2 Arithmetic.md",
     "215/Communication Protocol.md",
-    "220/Graph Traversal Algorithms.md",
     "Pasted image 20240510163310.png",
     "Pasted image 20240510163115.png",
     "Pasted image 20240510163112.png",
@@ -197,7 +194,6 @@
     "215/Ciphers.md",
     "215/Output Feedback (OFB).md",
     "215/Star Topology.md",
-    "210/dninweodoiendoie.md",
     "Pasted image 20240508173133.png",
     "Pasted image 20240508172543.png",
     "Pasted image 20240508172302.png",
