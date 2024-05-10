@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "215/Star Topology.md",
+                "file": "220/Digraphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,6 +162,8 @@
   },
   "active": "a1a2132a66a4a2b1",
   "lastOpenFiles": [
+    "220/Digraphs.md",
+    "220/Graphs.md",
     "215/Star Topology.md",
     "215/Network Topology.md",
     "215/Network Components.md",
@@ -186,8 +188,6 @@
     "215/Kasiski Test.md",
     "215/Feistel Networks.md",
     "215/Substitution Box (S-Box).md",
-    "215/Block Ciphers.md",
-    "215/Modern Block Ciphers.md",
     "Pasted image 20240508173133.png",
     "Pasted image 20240508172543.png",
     "Pasted image 20240508172302.png",
