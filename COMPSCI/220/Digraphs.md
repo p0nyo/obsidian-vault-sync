@@ -42,7 +42,6 @@ $$E=\{(0,2),(1,0),(1,3),(1,4),(3,4),(4,1)\}$$
 	- Length is infinite or undefined if it does not exist
 
 $$d(u,v)$$
-
 *note*s
 - Curly brackets for unordered pairs
 - Round brackets for ordered pairs

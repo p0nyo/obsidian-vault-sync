@@ -1,5 +1,12 @@
 {
-  "obsidian-prism-theme@@graph-line-custom-color-lt": "#888888",
-  "obsidian-prism-theme@@color-schemes-lt": "pt-color-scheme-periwinkle-lt",
-  "obsidian-prism-theme@@light-accent-color-preset": "pt-accent-color-orange-lt"
+  "obsidian-prism-theme@@graph-line-custom-color-lt": "#666666",
+  "obsidian-prism-theme@@color-schemes-lt": "pt-color-scheme-swan-lt",
+  "obsidian-prism-theme@@light-accent-color-preset": "pt-accent-color-custom-lt",
+  "things-style@@fancy-code": true,
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-macchiato",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-yellow",
+  "obsidian-prism-theme@@graph-line-color-lt": "var(--graph-line-custom-color-lt)",
+  "obsidian-prism-theme@@graph-line-opacity-lt": 0.45,
+  "obsidian-prism-theme@@color-accent-tint-lt": "#FF0000"
 }
