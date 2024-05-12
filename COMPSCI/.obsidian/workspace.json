@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220/Graphs.md",
+                "file": "210/Call-By-Reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "210/Call-By-Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "210/Call-By-Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "210/Call-By-Reference.md"
+              }
             }
           }
         ]
@@ -158,8 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "172f3095c3caae3b",
+  "active": "819522e86b5e8907",
   "lastOpenFiles": [
+    "210/Call-By-Value.md",
+    "210/Call-By-Reference.md",
     "220/Graphs.md",
     "220/Digraphs.md",
     "220/Sub-Digraphs.md",
@@ -195,8 +201,6 @@
     "220/Tree Representation.md",
     "220/Time and Space Complexity.md",
     "220/Depth First Search.md",
-    "215/Network Components.md",
-    "215/Network Types.md",
     "Untitled.canvas",
     "COMPSCI 215",
     "215",
