@@ -101,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220/Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "220/Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "220/Graphs.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,13 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "819522e86b5e8907",
+  "active": "172f3095c3caae3b",
   "lastOpenFiles": [
+    "220/Graphs.md",
     "220/Digraphs.md",
     "220/Sub-Digraphs.md",
     "220/Adjacency Matrix Representation.md",
     "220/Adjacency List Representation.md",
-    "220/Graphs.md",
     "215/XOR Ciphers.md",
     "215/Ciphers.md",
     "215/Columnar Transposition Ciphers.md",
