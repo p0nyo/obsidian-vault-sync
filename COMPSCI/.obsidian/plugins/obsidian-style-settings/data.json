@@ -8,5 +8,6 @@
   "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-yellow",
   "obsidian-prism-theme@@graph-line-color-lt": "var(--graph-line-custom-color-lt)",
   "obsidian-prism-theme@@graph-line-opacity-lt": 0.45,
-  "obsidian-prism-theme@@color-accent-tint-lt": "#FF0000"
+  "obsidian-prism-theme@@color-accent-tint-lt": "#FF0000",
+  "obsidian-prism-theme@@pt-focused-mode": true
 }

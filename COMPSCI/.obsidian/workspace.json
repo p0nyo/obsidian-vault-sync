@@ -101,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "210/Global and Local.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "210/Global and Local.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "210/Global and Local.md"
+              }
             }
           }
         ]
@@ -158,8 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "172f3095c3caae3b",
+  "active": "819522e86b5e8907",
   "lastOpenFiles": [
+    "images/Pasted image 20240514172528.png",
+    "images/Pasted image 20240514172519.png",
     "210/Global and Local.md",
     "images/Pasted image 20240514171048.png",
     "210/Data Types.md",
@@ -188,7 +194,6 @@
     "images/Pasted image 20240510161051.png",
     "images/Pasted image 20240510160949.png",
     "images/Pasted image 20240508173133.png",
-    "images/Pasted image 20240508172543.png",
     "215/Ring Topology.md",
     "215/Line Topology.md",
     "220/Graph ADTs.md",
