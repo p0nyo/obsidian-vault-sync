@@ -4,7 +4,6 @@ tags:
   - compsci
 links:
   - "[[Graphs]]"
-  - "[[Graph ADTs]]"
 ---
 $$G = (V,E)$$
 - Graphs that have direction

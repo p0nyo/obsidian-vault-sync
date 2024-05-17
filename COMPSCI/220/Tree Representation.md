@@ -3,7 +3,7 @@ tags:
   - compsci
   - math
 links:
-  - "[[Graph ADTs]]"
+  - "[[Digraphs]]"
 ---
 For special types of graphs that can be represented in a tree format
 - This will improve storage and access time

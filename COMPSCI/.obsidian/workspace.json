@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "210/Global and Local.md",
+                "file": "220/General Graph Traversal Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f529f11f5b3bf5e0",
@@ -101,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "220/General Graph Traversal Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "220/General Graph Traversal Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "220/General Graph Traversal Algorithm.md"
+              }
             }
           }
         ]
@@ -158,8 +163,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "172f3095c3caae3b",
+  "active": "819522e86b5e8907",
   "lastOpenFiles": [
+    "220/General Graph Traversal Algorithm.md",
+    "images/Pasted image 20240517150656.png",
+    "220/Search Forest Proofs.md",
+    "220/Arc Classification.md",
+    "220/Depth First Search.md",
+    "220/Adjacency Matrix Representation.md",
+    "220/Graphs.md",
+    "Graph ADTs.md",
+    "220/Digraphs.md",
+    "220/Graph ADTs.md",
+    "220/Tree Representation.md",
+    "220/Adjacency List Representation.md",
+    "220/Sub-Digraphs.md",
+    "220/Time and Space Complexity.md",
+    "images/Pasted image 20240517145314.png",
+    "images/Pasted image 20240517145206.png",
+    "images/Pasted image 20240517144623.png",
+    "images/Pasted image 20240517144124.png",
     "210/Global and Local.md",
     "images/Pasted image 20240514172528.png",
     "images/Pasted image 20240514172519.png",
@@ -167,11 +190,6 @@
     "210/Data Types.md",
     "210/Call-By-Reference.md",
     "210/Call-By-Value.md",
-    "220/Graphs.md",
-    "220/Digraphs.md",
-    "220/Sub-Digraphs.md",
-    "220/Adjacency Matrix Representation.md",
-    "220/Adjacency List Representation.md",
     "215/XOR Ciphers.md",
     "215/Ciphers.md",
     "215/Columnar Transposition Ciphers.md",
@@ -180,22 +198,9 @@
     "215/Modern Block Ciphers.md",
     "215/Bus Topology.md",
     "215/Communication Protocol.md",
-    "215/Network Topology.md",
-    "215/Star Topology.md",
     "images/Pasted image 20240510163310.png",
     "images/Pasted image 20240510163115.png",
-    "images/Pasted image 20240510163112.png",
-    "images/Pasted image 20240510163025.png",
-    "images/Pasted image 20240510161251.png",
-    "images/Pasted image 20240510161051.png",
-    "images/Pasted image 20240510160949.png",
-    "215/Ring Topology.md",
-    "215/Line Topology.md",
-    "220/Graph ADTs.md",
-    "220/Graph Traversal Algorithms.md",
     "images",
-    "215/Encryption.md",
-    "215/Modulo-2 Arithmetic.md",
     "Untitled.canvas",
     "COMPSCI 215",
     "215",

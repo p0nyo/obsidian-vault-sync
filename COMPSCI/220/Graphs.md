@@ -4,7 +4,6 @@ tags:
   - math
 links:
   - "[[Digraphs]]"
-  - "[[Graph ADTs]]"
 ---
 $$G=(V,E)$$
 - Graphs are a pair of two sets

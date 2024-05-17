@@ -2,7 +2,8 @@
 tags:
   - compsci
   - math
-links: []
+links:
+  - "[[Digraphs]]"
 ---
 Adjacency Lists are better for sparse graphs
 ![[Pasted image 20240502144325.png|200]]

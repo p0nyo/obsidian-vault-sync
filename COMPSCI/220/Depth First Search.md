@@ -3,5 +3,5 @@ tags:
   - compsci
   - math
 links:
-  - "[[Graph ADTs]]"
+  - "[[General Graph Traversal Algorithm]]"
 ---
