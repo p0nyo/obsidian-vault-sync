@@ -26,7 +26,7 @@ links:
 	- Go to `node 2` and colour grey
 7. Now everything in the graph is white
 	-  ![[Pasted image 20240510163310.png|100]]
-
+![[Pasted image 20240517152032.png]]
 ###### Function: Traverse
 ![[Pasted image 20240517144124.png|200]]
 - Keeps track of two arrays, colour and pred (predecessor)
@@ -38,6 +38,6 @@ links:
 - If there are no white neighbours, then colour the node black
 ![[Pasted image 20240517145206.png|200]]
 ![[Pasted image 20240517145314.png|200]]
-- [[Search Forest Proofs|Search Forest]]
+- [[Search Forest Theorems|Search Forest]]
 ##### Running Time
 ![[Pasted image 20240517150656.png]]
