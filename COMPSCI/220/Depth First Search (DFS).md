@@ -32,9 +32,47 @@ links:
 - While the stack is not empty, peek at the top value, `U`
 - If `U` has a white neighbour, `V`, then colour it grey, set the predecessor to `U` and set seen time to current time and increment time by 1,
 - If there are no white neighbours then pop from the stack, colour the node black and enter current time into done time list
+##### Function: RecursiveDFSVisit
+![[Pasted image 20240517163843.png|200]]
+- Traversal can also be done recursively 
 
 
+##### Code
+```python
+# Recursive
+def dfs(digraph):
+# define function in function to access all the defined arrays
+	def rdfsvisit(node, digraph):
+		colour[node] = 'g'
+		seen[node] = time[0]
+		time[0] += 1
+		for neighbour in digraph[node]:
+			if colour[neighbour] == 'w':
+				pred[neighbour] = node
+				rdfsvisit(neighbour, digraph)
+		colour[node] = 'b'
+		done[node] = time[0]
+		time[0] += 1
+colour = ['w']*len(digraph)
+pred = [-1]*len(digraph)
+seen = [0]*len(digraph)
+done = [0]*len(digraph)
+time = [0]
+# print(colour, pred, seen, done, time)
+for node in range(len(digraph)):
+	if colour[node] == 'w':
+	rdfsvisit(node, digraph)
+# print(colour, pred, seen, done, time)
+treearc = len([i for i in pred if i != -1])
+print(str(treearc) + ' ', end = '')
+crossarc = 0
+for node in range(len(digraph)):
+	for neighbour in digraph[node]:
+		if seen[neighbour] < done[neighbour] < seen[node] < done[node]:
+crossarc += 1
+print(crossarc)
 
+```
 
 
 ##### Running Time
