@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "215/XOR (Exclusive OR).md",
+                "file": "220/Depth First Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "220/Depth First Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "220/Depth First Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "220/Depth First Search.md"
+              }
             }
           }
         ]
@@ -159,14 +163,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "172f3095c3caae3b",
+  "active": "819522e86b5e8907",
   "lastOpenFiles": [
+    "images/Pasted image 20240517163450.png",
+    "220/Arc Classification.md",
+    "220/General Graph Traversal Algorithm.md",
+    "220/Search Forest Theorems.md",
+    "220/Digraphs.md",
+    "210/Global and Local.md",
     "215/XOR (Exclusive OR).md",
     "215/Rail Fence Ciphers (Zig Zag).md",
     "215/Ciphers.md",
-    "220/Arc Classification.md",
-    "220/General Graph Traversal Algorithm.md",
-    "220/Digraphs.md",
     "220/Adjacency List Representation.md",
     "220/Depth First Search.md",
     "images/Pasted image 20240517153039.png",
@@ -174,7 +181,6 @@
     "images/Pasted image 20240517152750.png",
     "images/Pasted image 20240517152522.png",
     "images/Pasted image 20240517152416.png",
-    "220/Search Forest Theorems.md",
     "images/Pasted image 20240517152032.png",
     "images/Pasted image 20240517150656.png",
     "220/Adjacency Matrix Representation.md",
@@ -187,7 +193,6 @@
     "images/Pasted image 20240517145314.png",
     "images/Pasted image 20240517145206.png",
     "images/Pasted image 20240517144623.png",
-    "210/Global and Local.md",
     "210/Data Types.md",
     "210/Call-By-Reference.md",
     "210/Call-By-Value.md",
@@ -196,7 +201,6 @@
     "215/Simple Transposition Ciphers.md",
     "215/Modern Block Ciphers.md",
     "215/Bus Topology.md",
-    "215/Communication Protocol.md",
     "images",
     "Untitled.canvas",
     "COMPSCI 215",

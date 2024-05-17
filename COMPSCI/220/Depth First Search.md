@@ -22,9 +22,16 @@ links:
 ##### Function: DFS
 ![[Pasted image 20240517153039.png|200]]
 - Initialise 4 different lists
-- 
-
-
+- Initialise a stack
+- Initialise time variable to zero
+- Loop through the nodes of the digraph, if it is white then DFS visit it
+##### Function: DFSVisit
+![[Pasted image 20240517163450.png|200]]
+- Colour the visited node grey, seen time set to the current time variable and increment time by 1
+- Push the node into the stack
+- While the stack is not empty, peek at the top value, `U`
+- If `U` has a white neighbour, `V`, then colour it grey, set the predecessor to `U` and set seen time to current time and increment time by 1,
+- If there are no white neighbours then pop from the stack, colour the node black and enter current time into done time list
 
 
 
