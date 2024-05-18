@@ -103,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220/Depth First Search (DFS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "220/Depth First Search (DFS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "220/Depth First Search (DFS).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -164,7 +160,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3aab984bdb68a79",
+  "active": "172f3095c3caae3b",
   "lastOpenFiles": [
     "220/Breadth First Search (BFS).md",
     "220/Depth First Search (DFS).md",

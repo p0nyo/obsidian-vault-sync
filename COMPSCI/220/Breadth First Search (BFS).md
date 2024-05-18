@@ -12,11 +12,5 @@ links:
 ![[Pasted image 20240517165525.png|200]]
 1. Start BFS at `node 0`
 	- Find all white neighbours that `node 0` , starting from a lower index
-2. Then go to the next OINofe
-3. foernforneOF
-  cdnjsnijvnvjfnivndffni
-  fer
-  fe
-  rfrf
-  erf
-ff
+2. Then choose node that has been grey the longest amount of time, `node 1`
+3. 
