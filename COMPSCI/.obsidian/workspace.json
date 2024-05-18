@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220/Priority First Search (PFS).md",
+                "file": "220/DFS Applications.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f529f11f5b3bf5e0",
@@ -104,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220/Priority First Search (PFS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "220/Priority First Search (PFS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "220/Priority First Search (PFS).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -167,23 +162,26 @@
   },
   "active": "172f3095c3caae3b",
   "lastOpenFiles": [
+    "220/DFS Applications.md",
     "220/Priority First Search (PFS).md",
+    "220/Search Forest Theorems.md",
+    "220/CS220 2024S1 A4.pdf",
+    "220/DFS Useful Results.md",
+    "220/Breadth First Search (BFS).md",
     "220/BFS Useful Results.md",
+    "220/Adjacency Matrix Representation.md",
+    "220/Sub-Digraphs.md",
+    "220/Digraphs.md",
+    "220/Graphs.md",
     "215/Ciphers.md",
     "220/Arc Classification.md",
-    "220/Breadth First Search (BFS).md",
     "images/Pasted image 20240518192148.png",
     "images/Pasted image 20240518191931.png",
     "220/Depth First Search (DFS).md",
     "images/Pasted image 20240517165525.png",
-    "220/Graphs.md",
-    "220/Sub-Digraphs.md",
-    "220/DFS Useful Results.md",
     "images/Pasted image 20240517163843.png",
     "images/Pasted image 20240517163450.png",
     "220/General Graph Traversal Algorithm.md",
-    "220/Search Forest Theorems.md",
-    "220/Digraphs.md",
     "210/Global and Local.md",
     "215/XOR (Exclusive OR).md",
     "215/Rail Fence Ciphers (Zig Zag).md",
@@ -193,7 +191,6 @@
     "images/Pasted image 20240517152750.png",
     "images/Pasted image 20240517152522.png",
     "images/Pasted image 20240517152416.png",
-    "220/Adjacency Matrix Representation.md",
     "Graph ADTs.md",
     "220/Graph ADTs.md",
     "220/Tree Representation.md",
@@ -202,7 +199,6 @@
     "210/Call-By-Reference.md",
     "210/Call-By-Value.md",
     "215/XOR Ciphers.md",
-    "215/Columnar Transposition Ciphers.md",
     "images",
     "Untitled.canvas",
     "COMPSCI 215",
