@@ -131,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220/Breadth First Search (BFS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "220/Breadth First Search (BFS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "220/Breadth First Search (BFS).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -192,11 +188,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "819522e86b5e8907",
+  "active": "172f3095c3caae3b",
   "lastOpenFiles": [
-    "images/Pasted image 20240517165525.png",
-    "220/Depth First Search (DFS).md",
     "220/Breadth First Search (BFS).md",
+    "220/Depth First Search (DFS).md",
+    "images/Pasted image 20240517165525.png",
     "220/Graphs.md",
     "220/Sub-Digraphs.md",
     "220/Arc Classification.md",
@@ -223,7 +219,6 @@
     "220/Graph ADTs.md",
     "220/Tree Representation.md",
     "220/Time and Space Complexity.md",
-    "images/Pasted image 20240517145314.png",
     "210/Data Types.md",
     "210/Call-By-Reference.md",
     "210/Call-By-Value.md",

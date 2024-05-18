@@ -11,4 +11,9 @@ links:
 - Black: Nodes that have been visited including their outneighbours
 ![[Pasted image 20240517165525.png|200]]
 1. Start BFS at `node 0`
-	- Find all white neighbours that `node 0` , starting from a lower
+	- Find all white neighbours that `node 0` , starting from a lower index
+2. Then go to the next OINofe
+3. foernforneOF
+   rfnFOERNF
+   FORNEOENORIfn
+   fRNORfn
