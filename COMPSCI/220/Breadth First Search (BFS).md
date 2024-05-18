@@ -14,6 +14,9 @@ links:
 	- Find all white neighbours that `node 0` , starting from a lower index
 2. Then go to the next OINofe
 3. foernforneOF
-   rfnFOERNF
-   FORNEOENORIfn
-   fRNORfn
+  cdnjsnijvnvjfnivndffni
+  fer
+  fe
+  rfrf
+  erf
+ff
