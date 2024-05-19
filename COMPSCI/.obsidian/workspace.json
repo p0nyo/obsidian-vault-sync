@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220/ Directed Acyclic Graph (DAG).md",
+                "file": "220/Girth.md",
                 "mode": "source",
                 "source": false
               }
@@ -163,6 +163,7 @@
   },
   "active": "172f3095c3caae3b",
   "lastOpenFiles": [
+    "220/Girth.md",
     "220/ Directed Acyclic Graph (DAG).md",
     "220/Topological Sort.md",
     "Directed Acyclic Graph (DAG).md",
@@ -199,7 +200,6 @@
     "Graph ADTs.md",
     "220/Graph ADTs.md",
     "220/Tree Representation.md",
-    "220/Time and Space Complexity.md",
     "images",
     "Untitled.canvas",
     "COMPSCI 215",
