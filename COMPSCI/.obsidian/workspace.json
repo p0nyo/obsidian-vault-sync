@@ -104,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220/Girth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "220/Girth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "220/Girth.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -165,10 +161,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "819522e86b5e8907",
+  "active": "172f3095c3caae3b",
   "lastOpenFiles": [
-    "220/BFS Applications.md",
     "220/Girth.md",
+    "images/Pasted image 20240519180947.png",
+    "220/BFS Applications.md",
     "220/Topological Sort.md",
     "220/ Directed Acyclic Graph (DAG).md",
     "220/Zero In-Degree Sorting.md",
@@ -197,7 +194,6 @@
     "images/Pasted image 20240518192148.png",
     "images/Pasted image 20240518191931.png",
     "220/Depth First Search (DFS).md",
-    "images/Pasted image 20240517165525.png",
     "210/Global and Local.md",
     "215/XOR (Exclusive OR).md",
     "215/Rail Fence Ciphers (Zig Zag).md",
