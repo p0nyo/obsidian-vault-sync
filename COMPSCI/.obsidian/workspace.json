@@ -104,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "220/Girth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "220/Girth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "220/Girth.md"
+              }
             }
           }
         ]
@@ -161,11 +165,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "172f3095c3caae3b",
+  "active": "819522e86b5e8907",
   "lastOpenFiles": [
+    "220/BFS Applications.md",
     "220/Girth.md",
-    "220/ Directed Acyclic Graph (DAG).md",
     "220/Topological Sort.md",
+    "220/ Directed Acyclic Graph (DAG).md",
+    "220/Zero In-Degree Sorting.md",
+    "images/Pasted image 20240519175214.png",
+    "images/Pasted image 20240519174119.png",
+    "images/Pasted image 20240519174046.png",
     "Directed Acyclic Graph (DAG).md",
     "images/Pasted image 20240519162105.png",
     "220/General Graph Traversal Algorithm.md",
@@ -175,7 +184,6 @@
     "images/Pasted image 20240519160253.png",
     "images/Pasted image 20240519160219.png",
     "220/BFS Useful Results.md",
-    "220/BFS Applications.md",
     "220/DFS Applications.md",
     "220/CS220 2024S1 A4.pdf",
     "220/DFS Useful Results.md",
@@ -190,16 +198,11 @@
     "images/Pasted image 20240518191931.png",
     "220/Depth First Search (DFS).md",
     "images/Pasted image 20240517165525.png",
-    "images/Pasted image 20240517163843.png",
-    "images/Pasted image 20240517163450.png",
     "210/Global and Local.md",
     "215/XOR (Exclusive OR).md",
     "215/Rail Fence Ciphers (Zig Zag).md",
     "220/Adjacency List Representation.md",
-    "images/Pasted image 20240517153039.png",
     "Graph ADTs.md",
-    "220/Graph ADTs.md",
-    "220/Tree Representation.md",
     "images",
     "Untitled.canvas",
     "COMPSCI 215",

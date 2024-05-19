@@ -12,3 +12,4 @@ A topological sort of a digraph `G` is a linear ordering of the nodes in `G`, su
 ##### Proof
 ![[Pasted image 20240519162105.png]]
 - Uses a directed acyclic graph
+- Lecture MAY 08 for proof
