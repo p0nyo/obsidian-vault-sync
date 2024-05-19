@@ -11,4 +11,4 @@ A topological sort of a digraph `G` is a linear ordering of the nodes in `G`, su
 - Any cycle in a graph will prevent us from finding a topological sort
 ##### Proof
 ![[Pasted image 20240519162105.png]]
-- Use
+- Uses a directed acyclic graph

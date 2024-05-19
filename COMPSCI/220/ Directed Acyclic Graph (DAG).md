@@ -3,6 +3,7 @@ tags:
   - compsci
   - math
 links:
-  - "[[Digraphs]]"
+  - "[[Topological Sort]]"
+  - "[[Sub-Digraphs]]"
 ---
 A digraph that has no cycles.
