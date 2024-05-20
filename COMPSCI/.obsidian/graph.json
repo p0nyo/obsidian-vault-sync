@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:210  ",
@@ -47,5 +47,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1.0289800466642252,
-  "close": true
+  "close": false
 }
