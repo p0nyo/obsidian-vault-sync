@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "215/Steganography.md",
+                "file": "215/LSB Colour.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "215/Steganography.md",
+                "file": "215/LSB Colour.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "215/Steganography.md",
+                "file": "215/LSB Colour.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "215/Steganography.md"
+                "file": "215/LSB Colour.md"
               }
             }
           }
@@ -167,10 +167,19 @@
   },
   "active": "819522e86b5e8907",
   "lastOpenFiles": [
+    "215/LSB Greyscale.md",
+    "215/LSB Colour.md",
+    "images/Pasted image 20240520150631.png",
+    "images/Pasted image 20240520150154.png",
+    "images/Pasted image 20240520145757.png",
+    "images/Pasted image 20240520145507.png",
+    "images/Pasted image 20240520145453.png",
+    "images/Pasted image 20240520145351.png",
+    "215/Steganography.md",
+    "images/Pasted image 20240520144426.png",
     "images/Pasted image 20240520143501.png",
     "215/Ciphers.md",
     "215/Encryption.md",
-    "215/Steganography.md",
     "220/BFS Useful Results.md",
     "220/Breadth First Search (BFS).md",
     "220/Girth.md",
@@ -180,16 +189,10 @@
     "220/ Directed Acyclic Graph (DAG).md",
     "220/Zero In-Degree Sorting.md",
     "images/Pasted image 20240519175214.png",
-    "images/Pasted image 20240519174119.png",
-    "images/Pasted image 20240519174046.png",
     "Directed Acyclic Graph (DAG).md",
-    "images/Pasted image 20240519162105.png",
     "220/General Graph Traversal Algorithm.md",
-    "images/Pasted image 20240519161403.png",
     "220/Search Forest Theorems.md",
     "220/Priority First Search (PFS).md",
-    "images/Pasted image 20240519160253.png",
-    "images/Pasted image 20240519160219.png",
     "220/DFS Applications.md",
     "220/CS220 2024S1 A4.pdf",
     "220/DFS Useful Results.md",
@@ -198,12 +201,8 @@
     "220/Digraphs.md",
     "220/Graphs.md",
     "220/Arc Classification.md",
-    "images/Pasted image 20240518192148.png",
-    "images/Pasted image 20240518191931.png",
     "220/Depth First Search (DFS).md",
     "210/Global and Local.md",
-    "215/XOR (Exclusive OR).md",
-    "215/Rail Fence Ciphers (Zig Zag).md",
     "images",
     "Untitled.canvas",
     "COMPSCI 215",
