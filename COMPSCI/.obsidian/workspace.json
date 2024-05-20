@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "215/LSB Colour.md",
+                "file": "215/LSB Greyscale.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "215/LSB Colour.md",
+                "file": "215/LSB Greyscale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "215/LSB Colour.md",
+                "file": "215/LSB Greyscale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "215/LSB Colour.md"
+                "file": "215/LSB Greyscale.md"
               }
             }
           }
@@ -167,15 +167,16 @@
   },
   "active": "819522e86b5e8907",
   "lastOpenFiles": [
-    "215/LSB Greyscale.md",
+    "215/Steganography-413388092.png",
+    "215/Steganography.md",
     "215/LSB Colour.md",
+    "215/LSB Greyscale.md",
     "images/Pasted image 20240520150631.png",
     "images/Pasted image 20240520150154.png",
     "images/Pasted image 20240520145757.png",
     "images/Pasted image 20240520145507.png",
     "images/Pasted image 20240520145453.png",
     "images/Pasted image 20240520145351.png",
-    "215/Steganography.md",
     "images/Pasted image 20240520144426.png",
     "images/Pasted image 20240520143501.png",
     "215/Ciphers.md",
