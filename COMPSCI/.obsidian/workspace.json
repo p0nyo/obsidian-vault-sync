@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220/BFS Useful Results.md",
+                "file": "215/Steganography.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220/BFS Useful Results.md",
+                "file": "215/Steganography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "220/BFS Useful Results.md",
+                "file": "215/Steganography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "220/BFS Useful Results.md"
+                "file": "215/Steganography.md"
               }
             }
           }
@@ -167,6 +167,11 @@
   },
   "active": "819522e86b5e8907",
   "lastOpenFiles": [
+    "images/Pasted image 20240520143501.png",
+    "215/Ciphers.md",
+    "215/Encryption.md",
+    "215/Steganography.md",
+    "220/BFS Useful Results.md",
     "220/Breadth First Search (BFS).md",
     "220/Girth.md",
     "images/Pasted image 20240519180947.png",
@@ -185,7 +190,6 @@
     "220/Priority First Search (PFS).md",
     "images/Pasted image 20240519160253.png",
     "images/Pasted image 20240519160219.png",
-    "220/BFS Useful Results.md",
     "220/DFS Applications.md",
     "220/CS220 2024S1 A4.pdf",
     "220/DFS Useful Results.md",
@@ -193,7 +197,6 @@
     "220/Sub-Digraphs.md",
     "220/Digraphs.md",
     "220/Graphs.md",
-    "215/Ciphers.md",
     "220/Arc Classification.md",
     "images/Pasted image 20240518192148.png",
     "images/Pasted image 20240518191931.png",
@@ -201,8 +204,6 @@
     "210/Global and Local.md",
     "215/XOR (Exclusive OR).md",
     "215/Rail Fence Ciphers (Zig Zag).md",
-    "220/Adjacency List Representation.md",
-    "Graph ADTs.md",
     "images",
     "Untitled.canvas",
     "COMPSCI 215",
