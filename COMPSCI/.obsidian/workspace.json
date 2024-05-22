@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220/Breadth First Search (BFS).md",
+                "file": "220/BFS Useful Results.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "d",
+                "query": "girth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220/Breadth First Search (BFS).md",
+                "file": "220/BFS Useful Results.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "220/Breadth First Search (BFS).md",
+                "file": "220/BFS Useful Results.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "220/Breadth First Search (BFS).md"
+                "file": "220/BFS Useful Results.md"
               }
             }
           }
@@ -165,8 +165,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73364cb62ee90368",
+  "active": "819522e86b5e8907",
   "lastOpenFiles": [
+    "220/Girth.md",
+    "220/BFS Applications.md",
+    "220/DFS Applications.md",
+    "220/DFS Useful Results.md",
+    "220/Arc Classification.md",
+    "220/BFS Useful Results.md",
+    "220/Breadth First Search (BFS).md",
+    "220/Topological Sort.md",
+    "220/Digraphs.md",
+    "220/Search Forest Theorems.md",
+    "220/Zero In-Degree Sorting.md",
     "220/ Directed Acyclic Graph (DAG).md",
     "215/Steganalysis.md",
     "215/LSB Greyscale.md",
@@ -183,25 +194,14 @@
     "images/Pasted image 20240520143501.png",
     "215/Ciphers.md",
     "215/Encryption.md",
-    "220/BFS Useful Results.md",
-    "220/Breadth First Search (BFS).md",
-    "220/Girth.md",
     "images/Pasted image 20240519180947.png",
-    "220/BFS Applications.md",
-    "220/Topological Sort.md",
-    "220/Zero In-Degree Sorting.md",
     "Directed Acyclic Graph (DAG).md",
     "220/General Graph Traversal Algorithm.md",
-    "220/Search Forest Theorems.md",
     "220/Priority First Search (PFS).md",
-    "220/DFS Applications.md",
     "220/CS220 2024S1 A4.pdf",
-    "220/DFS Useful Results.md",
     "220/Adjacency Matrix Representation.md",
     "220/Sub-Digraphs.md",
-    "220/Digraphs.md",
     "220/Graphs.md",
-    "220/Arc Classification.md",
     "220/Depth First Search (DFS).md",
     "210/Global and Local.md",
     "images",
