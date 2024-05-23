@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220/Weighted Digraph.md",
+                "file": "220/Dijkstra's Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220/Weighted Digraph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "220/Weighted Digraph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "220/Weighted Digraph.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -165,13 +161,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "819522e86b5e8907",
+  "active": "172f3095c3caae3b",
   "lastOpenFiles": [
+    "220/Dijkstra's Algorithm.md",
+    "220/Weighted Digraph.md",
+    "220/Adjacency List Representation.md",
+    "images/Pasted image 20240523182944.png",
+    "images/Pasted image 20240523182640.png",
+    "220/Bipartite Graphs.md",
+    "220/Digraphs.md",
     "images/Pasted image 20240523182140.png",
     "images/Pasted image 20240523181943.png",
     "images/Pasted image 20240523181712.png",
-    "220/Bipartite Graphs.md",
-    "220/Weighted Digraph.md",
     "images/Pasted image 20240523181207.png",
     "images/Pasted image 20240523180725.png",
     "220/Sub-Digraphs.md",
@@ -188,9 +189,6 @@
     "220/Topological Sort.md",
     "images/Pasted image 20240523172845.png",
     "images/Pasted image 20240523172624.png",
-    "images/Pasted image 20240523172621.png",
-    "images/Pasted image 20240523171402.png",
-    "images/Pasted image 20240523164134.png",
     "220/Arc Classification.md",
     "220/Girth.md",
     "220/Graphs.md",
@@ -200,9 +198,7 @@
     "220/Priority First Search (PFS).md",
     "220/DFS Applications.md",
     "220/DFS Useful Results.md",
-    "220/Digraphs.md",
     "215/Steganalysis.md",
-    "215/LSB Greyscale.md",
     "220/CS220 2024S1 A4.pdf",
     "images",
     "Untitled.canvas",
