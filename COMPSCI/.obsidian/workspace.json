@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220/Tarjan's Algorithm.md",
+                "file": "220/Weighted Digraph.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220/Tarjan's Algorithm.md",
+                "file": "220/Weighted Digraph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "220/Tarjan's Algorithm.md",
+                "file": "220/Weighted Digraph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "220/Tarjan's Algorithm.md"
+                "file": "220/Weighted Digraph.md"
               }
             }
           }
@@ -167,9 +167,19 @@
   },
   "active": "819522e86b5e8907",
   "lastOpenFiles": [
+    "images/Pasted image 20240523182140.png",
+    "images/Pasted image 20240523181943.png",
+    "images/Pasted image 20240523181712.png",
+    "220/Bipartite Graphs.md",
+    "220/Weighted Digraph.md",
+    "images/Pasted image 20240523181207.png",
+    "images/Pasted image 20240523180725.png",
+    "220/Sub-Digraphs.md",
+    "220/Tarjan's Algorithm.md",
+    "220/Finding Girth of Digraph.md",
+    "images/Pasted image 20240523175749.png",
     "220/Connectivity.md",
     "220/ Directed Acyclic Graph (DAG).md",
-    "220/Tarjan's Algorithm.md",
     "220/BFS Useful Results.md",
     "220/Breadth First Search (BFS).md",
     "220/BFS Applications.md",
@@ -181,28 +191,18 @@
     "images/Pasted image 20240523172621.png",
     "images/Pasted image 20240523171402.png",
     "images/Pasted image 20240523164134.png",
-    "images/Pasted image 20240523164054.png",
     "220/Arc Classification.md",
     "220/Girth.md",
     "220/Graphs.md",
-    "220/Finding Girth of Digraph.md",
     "220/Zero In-Degree Sorting.md",
     "220/Finding Girth of Graph.md",
     "220/Time and Space Complexity.md",
-    "images/Pasted image 20240523162705.png",
     "220/Priority First Search (PFS).md",
     "220/DFS Applications.md",
     "220/DFS Useful Results.md",
     "220/Digraphs.md",
     "215/Steganalysis.md",
     "215/LSB Greyscale.md",
-    "215/Steganography-413388092.png",
-    "215/Steganography.md",
-    "215/LSB Colour.md",
-    "images/Pasted image 20240520150631.png",
-    "images/Pasted image 20240520150154.png",
-    "215/Ciphers.md",
-    "215/Encryption.md",
     "220/CS220 2024S1 A4.pdf",
     "images",
     "Untitled.canvas",

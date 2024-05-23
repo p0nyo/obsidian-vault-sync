@@ -16,4 +16,9 @@ links:
  - Loop through the C stages, producing a search forest as a result, which would correspond to the strong components of graph `G`
 ### Algorithm
 1. Run DFS on graph `G` and record the done times for all nodes
-2. List nodes of `G` in reverse
+2. List nodes of `G` in reverse order of done times
+3. Run DFS on `Gr` choosing starting nodes in the order of the node list from step 2
+4. Produces forest `Fr`, where trees correspond to the strong components of `G` 
+![[Pasted image 20240523175749.png|250]]
+##### Running Time
+$$O(n+m)$$
