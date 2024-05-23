@@ -17,4 +17,3 @@ links:
 - For two nodes, `u,v` they are strongly connected if there is a path `(u,v)` and `(v,u)`
 ![[Pasted image 20240523171402.png|200]]
 - Strongly connected components are {1, 2}
-- 
