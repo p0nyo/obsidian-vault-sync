@@ -3,7 +3,7 @@ tags:
   - compsci
   - math
 links:
-  - "[[General Graph Traversal Algorithm]]"
+  - "[[Digraphs]]"
 ---
 The girth of a graph `G` is the length of the shortest cycle on the graph
 The girth of digraph `G` is the girth of the ==underlying graph== `G`

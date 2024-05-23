@@ -3,7 +3,7 @@ tags:
   - compsci
   - math
 links:
-  - "[[General Graph Traversal Algorithm]]"
+  - "[[Digraphs]]"
 ---
 A topological sort of a digraph `G` is a linear ordering of the nodes in `G`, such that if `u` comes before `v` in the ordering, then the arc `(v,u)` would not exist in `G`
 ![[Pasted image 20240519161403.png]]

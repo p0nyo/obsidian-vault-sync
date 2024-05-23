@@ -3,7 +3,7 @@ tags:
   - compsci
   - math
 links:
-  - "[[General Graph Traversal Algorithm]]"
+  - "[[Digraphs]]"
 ---
 ![[Pasted image 20240517145206.png|200]]
 - Anything that is not a tree arc, e.g a -> c, can be classified as a the arcs listed below:

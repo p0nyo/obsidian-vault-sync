@@ -2,8 +2,7 @@
 tags:
   - compsci
   - math
-links:
-  - "[[General Graph Traversal Algorithm]]"
+links: []
 ---
 ![[Pasted image 20240517145206.png|200]]
 ##### Theorems
