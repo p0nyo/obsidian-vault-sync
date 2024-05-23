@@ -104,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "220/Dijkstra's Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "220/Dijkstra's Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "220/Dijkstra's Algorithm.md"
+              }
             }
           }
         ]
@@ -161,8 +165,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "172f3095c3caae3b",
+  "active": "819522e86b5e8907",
   "lastOpenFiles": [
+    "images/Pasted image 20240523223021.png",
     "220/Dijkstra's Algorithm.md",
     "220/Weighted Digraph.md",
     "220/Adjacency List Representation.md",
@@ -198,7 +203,6 @@
     "220/Priority First Search (PFS).md",
     "220/DFS Applications.md",
     "220/DFS Useful Results.md",
-    "215/Steganalysis.md",
     "220/CS220 2024S1 A4.pdf",
     "images",
     "Untitled.canvas",
