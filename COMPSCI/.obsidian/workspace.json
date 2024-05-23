@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220/BFS Useful Results.md",
+                "file": "220/Zero In-Degree Sorting.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220/BFS Useful Results.md",
+                "file": "220/Zero In-Degree Sorting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "220/BFS Useful Results.md",
+                "file": "220/Zero In-Degree Sorting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "220/BFS Useful Results.md"
+                "file": "220/Zero In-Degree Sorting.md"
               }
             }
           }
@@ -167,18 +167,18 @@
   },
   "active": "819522e86b5e8907",
   "lastOpenFiles": [
+    "220/ Directed Acyclic Graph (DAG).md",
+    "220/Topological Sort.md",
     "220/Girth.md",
+    "220/BFS Useful Results.md",
     "220/BFS Applications.md",
     "220/DFS Applications.md",
     "220/DFS Useful Results.md",
     "220/Arc Classification.md",
-    "220/BFS Useful Results.md",
     "220/Breadth First Search (BFS).md",
-    "220/Topological Sort.md",
     "220/Digraphs.md",
     "220/Search Forest Theorems.md",
     "220/Zero In-Degree Sorting.md",
-    "220/ Directed Acyclic Graph (DAG).md",
     "215/Steganalysis.md",
     "215/LSB Greyscale.md",
     "215/Steganography-413388092.png",
