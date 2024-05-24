@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220/Adjacency Matrix Representation.md",
+                "file": "220/Dijkstra's Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220/Adjacency Matrix Representation.md",
+                "file": "220/Dijkstra's Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "220/Adjacency Matrix Representation.md",
+                "file": "220/Dijkstra's Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "220/Adjacency Matrix Representation.md"
+                "file": "220/Dijkstra's Algorithm.md"
               }
             }
           }
@@ -167,6 +167,7 @@
   },
   "active": "819522e86b5e8907",
   "lastOpenFiles": [
+    "220/Adjacency Matrix Representation.md",
     "220/Dijkstra's Algorithm.md",
     "images/Pasted image 20240523223021.png",
     "220/Weighted Digraph.md",
