@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220/Dijkstra's Algorithm.md",
+                "file": "220/Adjacency Matrix Representation.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220/Dijkstra's Algorithm.md",
+                "file": "220/Adjacency Matrix Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "220/Dijkstra's Algorithm.md",
+                "file": "220/Adjacency Matrix Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "220/Dijkstra's Algorithm.md"
+                "file": "220/Adjacency Matrix Representation.md"
               }
             }
           }
@@ -167,8 +167,8 @@
   },
   "active": "819522e86b5e8907",
   "lastOpenFiles": [
-    "images/Pasted image 20240523223021.png",
     "220/Dijkstra's Algorithm.md",
+    "images/Pasted image 20240523223021.png",
     "220/Weighted Digraph.md",
     "220/Adjacency List Representation.md",
     "images/Pasted image 20240523182944.png",
@@ -193,7 +193,6 @@
     "220/Search Forest Theorems.md",
     "220/Topological Sort.md",
     "images/Pasted image 20240523172845.png",
-    "images/Pasted image 20240523172624.png",
     "220/Arc Classification.md",
     "220/Girth.md",
     "220/Graphs.md",
