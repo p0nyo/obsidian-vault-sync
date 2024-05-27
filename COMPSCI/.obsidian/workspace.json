@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220/Dijkstra's Algorithm.md",
+                "file": "215/HTTP/HTTPs.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220/Dijkstra's Algorithm.md",
+                "file": "215/HTTP/HTTPs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "220/Dijkstra's Algorithm.md",
+                "file": "215/HTTP/HTTPs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "220/Dijkstra's Algorithm.md"
+                "file": "215/HTTP/HTTPs.md"
               }
             }
           }
@@ -165,10 +164,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "819522e86b5e8907",
+  "active": "a3aab984bdb68a79",
   "lastOpenFiles": [
-    "220/Adjacency Matrix Representation.md",
+    "215/Network Types.md",
+    "215/HTTP/HTTPs.md",
+    "images/Pasted image 20240527152753.png",
+    "images/Pasted image 20240527152410.png",
+    "images/Pasted image 20240527152352.png",
+    "215/Steganalysis.md",
+    "215/HTTP",
+    "215/LSB Colour.md",
+    "215/LSB Greyscale.md",
+    "215/Steganography.md",
     "220/Dijkstra's Algorithm.md",
+    "220/Adjacency Matrix Representation.md",
     "images/Pasted image 20240523223021.png",
     "220/Weighted Digraph.md",
     "220/Adjacency List Representation.md",
@@ -180,11 +189,9 @@
     "images/Pasted image 20240523181943.png",
     "images/Pasted image 20240523181712.png",
     "images/Pasted image 20240523181207.png",
-    "images/Pasted image 20240523180725.png",
     "220/Sub-Digraphs.md",
     "220/Tarjan's Algorithm.md",
     "220/Finding Girth of Digraph.md",
-    "images/Pasted image 20240523175749.png",
     "220/Connectivity.md",
     "220/ Directed Acyclic Graph (DAG).md",
     "220/BFS Useful Results.md",
@@ -193,16 +200,9 @@
     "220/General Graph Traversal Algorithm.md",
     "220/Search Forest Theorems.md",
     "220/Topological Sort.md",
-    "images/Pasted image 20240523172845.png",
     "220/Arc Classification.md",
     "220/Girth.md",
     "220/Graphs.md",
-    "220/Zero In-Degree Sorting.md",
-    "220/Finding Girth of Graph.md",
-    "220/Time and Space Complexity.md",
-    "220/Priority First Search (PFS).md",
-    "220/DFS Applications.md",
-    "220/DFS Useful Results.md",
     "220/CS220 2024S1 A4.pdf",
     "images",
     "Untitled.canvas",
