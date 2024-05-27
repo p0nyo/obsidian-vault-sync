@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "215/HTTP.md",
+                "file": "215/Basic HTTP Request and Response.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "215/HTTP.md",
+                "file": "215/Basic HTTP Request and Response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "215/HTTP.md",
+                "file": "215/Basic HTTP Request and Response.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "215/HTTP.md"
+                "file": "215/Basic HTTP Request and Response.md"
               }
             }
           }
@@ -167,20 +167,27 @@
   },
   "active": "819522e86b5e8907",
   "lastOpenFiles": [
-    "215/HTTP Versions.md",
+    "images/Pasted image 20240527170227.png",
+    "images/Pasted image 20240527170148.png",
+    "215/HTTP Request and Response.md",
+    "215/Basic HTTP Request and Response.md",
+    "215/Basic HTTP Authentication.md",
+    "215/HTTP Status Codes.md",
+    "215/HTTP Headers.md",
+    "215/HTTP.md",
     "215/Request Methods.md",
+    "images/Pasted image 20240527164803.png",
+    "images/Pasted image 20240527164623.png",
+    "images/Pasted image 20240527163737.png",
+    "images/Pasted image 20240527163427.png",
+    "images/Pasted image 20240527163357.png",
+    "images/Pasted image 20240527163345.png",
+    "images/Pasted image 20240527163322.png",
+    "215/HTTP Versions.md",
     "images/Pasted image 20240527155627.png",
     "images/Pasted image 20240527155102.png",
-    "215/HTTP Request and Response.md",
-    "images/Pasted image 20240527154659.png",
-    "images/Pasted image 20240527154237.png",
     "Untitled.md",
-    "images/Pasted image 20240527153457.png",
-    "215/HTTP.md",
     "215/Network Types.md",
-    "images/Pasted image 20240527152753.png",
-    "images/Pasted image 20240527152410.png",
-    "images/Pasted image 20240527152352.png",
     "215/Steganalysis.md",
     "215/HTTP",
     "215/LSB Colour.md",
@@ -188,10 +195,8 @@
     "215/Steganography.md",
     "220/Dijkstra's Algorithm.md",
     "220/Adjacency Matrix Representation.md",
-    "images/Pasted image 20240523223021.png",
     "220/Weighted Digraph.md",
     "220/Adjacency List Representation.md",
-    "images/Pasted image 20240523182944.png",
     "220/Bipartite Graphs.md",
     "220/Digraphs.md",
     "220/Sub-Digraphs.md",
@@ -199,11 +204,6 @@
     "220/Finding Girth of Digraph.md",
     "220/Connectivity.md",
     "220/ Directed Acyclic Graph (DAG).md",
-    "220/BFS Useful Results.md",
-    "220/Breadth First Search (BFS).md",
-    "220/BFS Applications.md",
-    "220/General Graph Traversal Algorithm.md",
-    "220/Search Forest Theorems.md",
     "220/CS220 2024S1 A4.pdf",
     "images",
     "Untitled.canvas",
