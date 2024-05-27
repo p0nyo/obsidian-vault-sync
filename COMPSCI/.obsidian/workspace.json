@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "215/GET Method.md",
+                "file": "215/Request Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "215/GET Method.md",
+                "file": "215/Request Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "215/GET Method.md",
+                "file": "215/Request Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "215/GET Method.md"
+                "file": "215/Request Methods.md"
               }
             }
           }
@@ -167,9 +167,10 @@
   },
   "active": "819522e86b5e8907",
   "lastOpenFiles": [
+    "images/Pasted image 20240527155627.png",
     "images/Pasted image 20240527155102.png",
     "215/HTTP Request and Response.md",
-    "215/GET Method.md",
+    "215/Request Methods.md",
     "images/Pasted image 20240527154659.png",
     "images/Pasted image 20240527154237.png",
     "Untitled.md",
@@ -193,7 +194,6 @@
     "images/Pasted image 20240523182640.png",
     "220/Bipartite Graphs.md",
     "220/Digraphs.md",
-    "images/Pasted image 20240523182140.png",
     "220/Sub-Digraphs.md",
     "220/Tarjan's Algorithm.md",
     "220/Finding Girth of Digraph.md",
