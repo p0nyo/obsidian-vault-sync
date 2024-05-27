@@ -7,7 +7,7 @@ links:
 HTTP is a stateless protocol
 - Two successive transactions between same client and server are not related
 HTTP can have stateful transactions which are built on top of the facilities that HTTP provides
-- E.g cookies can store information about visits
+- E.g cookies can store information about visits on the browser
 
 Request - Response Protocol
 - Server will not send anything unless the client sends something

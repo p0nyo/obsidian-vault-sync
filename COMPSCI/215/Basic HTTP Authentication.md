@@ -11,6 +11,8 @@ links:
 - What we are: fingerprint scanner
 **Authorization**: Checks to see if we have the rights to do what we want to do
 - Passport authenticates us, visa gives us the right to enter the country
+### Encoding
+- The key that is being sent from client to server is encoded with Base64 Encoding
 #### CIA of Security
 - Confidentiality, Integrity, Availability
 	- Confidentiality provides privacy and secrecy
