@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "215/HTTP/HTTPs.md",
+                "file": "215/GET Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f529f11f5b3bf5e0",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "215/HTTP/HTTPs.md",
+                "file": "215/GET Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "215/HTTP/HTTPs.md",
+                "file": "215/GET Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "215/HTTP/HTTPs.md"
+                "file": "215/GET Method.md"
               }
             }
           }
@@ -164,10 +165,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3aab984bdb68a79",
+  "active": "819522e86b5e8907",
   "lastOpenFiles": [
+    "images/Pasted image 20240527155102.png",
+    "215/HTTP Request and Response.md",
+    "215/GET Method.md",
+    "images/Pasted image 20240527154659.png",
+    "images/Pasted image 20240527154237.png",
+    "Untitled.md",
+    "images/Pasted image 20240527153457.png",
+    "215/HTTP.md",
     "215/Network Types.md",
-    "215/HTTP/HTTPs.md",
     "images/Pasted image 20240527152753.png",
     "images/Pasted image 20240527152410.png",
     "images/Pasted image 20240527152352.png",
@@ -186,9 +194,6 @@
     "220/Bipartite Graphs.md",
     "220/Digraphs.md",
     "images/Pasted image 20240523182140.png",
-    "images/Pasted image 20240523181943.png",
-    "images/Pasted image 20240523181712.png",
-    "images/Pasted image 20240523181207.png",
     "220/Sub-Digraphs.md",
     "220/Tarjan's Algorithm.md",
     "220/Finding Girth of Digraph.md",
@@ -199,10 +204,6 @@
     "220/BFS Applications.md",
     "220/General Graph Traversal Algorithm.md",
     "220/Search Forest Theorems.md",
-    "220/Topological Sort.md",
-    "220/Arc Classification.md",
-    "220/Girth.md",
-    "220/Graphs.md",
     "220/CS220 2024S1 A4.pdf",
     "images",
     "Untitled.canvas",
