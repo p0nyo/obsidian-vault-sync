@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "215/Digest HTTP Authentication.md",
+                "file": "215/Basic HTTP Request and Response.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "215/Digest HTTP Authentication.md",
+                "file": "215/Basic HTTP Request and Response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "215/Digest HTTP Authentication.md",
+                "file": "215/Basic HTTP Request and Response.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "215/Digest HTTP Authentication.md"
+                "file": "215/Basic HTTP Request and Response.md"
               }
             }
           }
@@ -167,12 +167,18 @@
   },
   "active": "819522e86b5e8907",
   "lastOpenFiles": [
-    "images/Pasted image 20240527175330.png",
-    "215/Basic HTTP Request and Response.md",
-    "215/Digest HTTP Authentication.md",
-    "215/Basic HTTP Authentication.md",
-    "215/HTTP Authentication.md",
     "215/Base64 Encoding.md",
+    "215/Basic HTTP Request and Response.md",
+    "215/Basic HTTP Authentication.md",
+    "215/Digest HTTP Authentication.md",
+    "images/Pasted image 20240527181522.png",
+    "images/Pasted image 20240527181231.png",
+    "images/Pasted image 20240527181138.png",
+    "images/Pasted image 20240527181028.png",
+    "images/Pasted image 20240527180826.png",
+    "images/Pasted image 20240527180806.png",
+    "images/Pasted image 20240527175330.png",
+    "215/HTTP Authentication.md",
     "images/Pasted image 20240527171652.png",
     "215/HTTP.md",
     "215/HTTP Headers.md",
@@ -183,15 +189,8 @@
     "215/HTTP Request and Response.md",
     "images/Pasted image 20240527170706.png",
     "images/Pasted image 20240527170557.png",
-    "images/Pasted image 20240527170227.png",
-    "images/Pasted image 20240527170148.png",
     "215/HTTP Status Codes.md",
     "215/Request Methods.md",
-    "images/Pasted image 20240527164803.png",
-    "images/Pasted image 20240527164623.png",
-    "images/Pasted image 20240527163737.png",
-    "images/Pasted image 20240527163427.png",
-    "images/Pasted image 20240527163357.png",
     "215/HTTP Versions.md",
     "Untitled.md",
     "215/Network Types.md",
