@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "215/Request Methods.md",
+                "file": "215/HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "215/Request Methods.md",
+                "file": "215/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "215/Request Methods.md",
+                "file": "215/HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "215/Request Methods.md"
+                "file": "215/HTTP.md"
               }
             }
           }
@@ -167,10 +167,11 @@
   },
   "active": "819522e86b5e8907",
   "lastOpenFiles": [
+    "215/HTTP Versions.md",
+    "215/Request Methods.md",
     "images/Pasted image 20240527155627.png",
     "images/Pasted image 20240527155102.png",
     "215/HTTP Request and Response.md",
-    "215/Request Methods.md",
     "images/Pasted image 20240527154659.png",
     "images/Pasted image 20240527154237.png",
     "Untitled.md",
@@ -191,7 +192,6 @@
     "220/Weighted Digraph.md",
     "220/Adjacency List Representation.md",
     "images/Pasted image 20240523182944.png",
-    "images/Pasted image 20240523182640.png",
     "220/Bipartite Graphs.md",
     "220/Digraphs.md",
     "220/Sub-Digraphs.md",
