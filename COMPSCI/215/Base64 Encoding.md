@@ -25,3 +25,6 @@ links:
 	5. Break into groups of 6 bits
 		- 010000 110110 000101 1101100
 		- 'Q2F0'
+### Decoding
+- `Number of char` x 3/4 = `Number of char in original string`
+	- Flip the fraction to reverse the process
