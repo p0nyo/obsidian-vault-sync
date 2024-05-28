@@ -21,7 +21,7 @@ links:
 ### HTTP Request(2)
 ![[Pasted image 20240527181028.png]]
 ![[Pasted image 20240527181231.png|200]]
-- ha1 = MD5("bond007:Mordor:bond007psswrd)
+- ha1 =  ("bond007:Mordor:bond007psswrd)
 - Method: the method the client used to request the server
 ### HTTP Response(2)
 ![[Pasted image 20240527181138.png|250]]
