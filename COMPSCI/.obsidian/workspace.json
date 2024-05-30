@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "215/HTTP Status Codes.md",
+                "file": "215/Basic HTTP Request and Response.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "215/Basic HTTP Request and Response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "215/Basic HTTP Request and Response.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "215/Basic HTTP Request and Response.md"
+              }
             }
           }
         ]
@@ -161,8 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "172f3095c3caae3b",
+  "active": "819522e86b5e8907",
   "lastOpenFiles": [
+    "215/Digest HTTP Authentication.md",
+    "215/HTTP Authentication.md",
     "215/HTTP Status Codes.md",
     "215/Request Methods.md",
     "215/HTTP Request and Response.md",
@@ -170,8 +176,6 @@
     "215/Basic HTTP Request and Response.md",
     "215/Basic HTTP Authentication.md",
     "215/Base64 Encoding.md",
-    "215/HTTP Authentication.md",
-    "215/Digest HTTP Authentication.md",
     "215/LSB Greyscale.md",
     "215/LSB Colour.md",
     "215/Steganography.md",
