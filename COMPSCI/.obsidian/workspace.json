@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "215/Base64 Encoding.md",
+                "file": "215/HTTP Status Codes.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "215/Base64 Encoding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "215/Base64 Encoding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "215/Base64 Encoding.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -165,18 +161,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "819522e86b5e8907",
+  "active": "172f3095c3caae3b",
   "lastOpenFiles": [
+    "215/HTTP Status Codes.md",
+    "215/Request Methods.md",
+    "215/HTTP Request and Response.md",
+    "215/HTTP Headers.md",
     "215/Basic HTTP Request and Response.md",
     "215/Basic HTTP Authentication.md",
+    "215/Base64 Encoding.md",
     "215/HTTP Authentication.md",
-    "215/HTTP Headers.md",
+    "215/Digest HTTP Authentication.md",
+    "215/LSB Greyscale.md",
+    "215/LSB Colour.md",
+    "215/Steganography.md",
     "215/Feistel Networks.md",
     "215/Ciphers.md",
     "220/Bipartite Graphs.md",
-    "215/Digest HTTP Authentication.md",
-    "215/Request Methods.md",
-    "215/Base64 Encoding.md",
     "images/Pasted image 20240527181522.png",
     "images/Pasted image 20240527181231.png",
     "images/Pasted image 20240527181138.png",
@@ -190,18 +191,13 @@
     "215/Block Cipher Mode of Operation.md",
     "215/Block Ciphers.md",
     "215/Encryption.md",
-    "215/HTTP Request and Response.md",
     "images/Pasted image 20240527170706.png",
     "images/Pasted image 20240527170557.png",
-    "215/HTTP Status Codes.md",
     "215/HTTP Versions.md",
     "Untitled.md",
     "215/Network Types.md",
     "215/Steganalysis.md",
     "215/HTTP",
-    "215/LSB Colour.md",
-    "215/LSB Greyscale.md",
-    "215/Steganography.md",
     "220/Dijkstra's Algorithm.md",
     "220/Adjacency Matrix Representation.md",
     "220/CS220 2024S1 A4.pdf",
