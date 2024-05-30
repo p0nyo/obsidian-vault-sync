@@ -3,7 +3,7 @@ tags:
   - compsci
   - math
 links:
-  - "[[Digraphs]]"
+  - "[[Digraph Representation]]"
 ---
 Adjacency Matrices are better for dense graphs
 ![[Pasted image 20240502144325.png|200]]

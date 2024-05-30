@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "87269e99e54543e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "38a80695e2e973e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acb53c13be9b6a93",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b8f6aedf959486a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7000612b0e35ea4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "982461df7470fd98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "90f71e51ac67cdcb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3909a9e05e6abb1b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "85c73e7113ade940",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b15abbd6b199905",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d70331e0f6da0c94",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62c361c09bdcf255",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "01b0903b05548f41",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c9344c48c29c0c22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "acb53c13be9b6a93",
+  "lastOpenFiles": [
+    "COMPSCI/220/Adjacency Matrix Representation.md",
+    "COMPSCI/220/ Directed Acyclic Graph (DAG).md",
+    "COMPSCI/210/Global and Local.md",
+    "COMPSCI/210/Data Types.md",
+    "COMPSCI/210/Call-By-Value.md",
+    "COMPSCI/210/Call-By-Reference.md"
+  ]
+}

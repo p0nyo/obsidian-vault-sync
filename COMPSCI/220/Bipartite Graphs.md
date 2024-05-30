@@ -3,7 +3,7 @@ tags:
   - compsci
   - math
 links:
-  - "[[Digraphs]]"
+  - "[[Graphs]]"
 ---
 Graph is bipartite if the vertices of graph `G` can be partitioned into two non-empty disjoint sets, `V0` and `V1` such that each edge has one endpoint in `V0` and one in `V1`
 ![[Pasted image 20240523180725.png|200]]
