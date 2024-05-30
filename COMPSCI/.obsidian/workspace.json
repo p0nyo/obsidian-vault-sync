@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220/Bipartite Graphs.md",
+                "file": "215/Feistel Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "encryption",
+                "query": "feiste",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220/Bipartite Graphs.md",
+                "file": "215/Feistel Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "220/Bipartite Graphs.md",
+                "file": "215/Feistel Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "220/Bipartite Graphs.md"
+                "file": "215/Feistel Networks.md"
               }
             }
           }
@@ -167,6 +167,8 @@
   },
   "active": "819522e86b5e8907",
   "lastOpenFiles": [
+    "215/Ciphers.md",
+    "220/Bipartite Graphs.md",
     "215/Digest HTTP Authentication.md",
     "215/Request Methods.md",
     "215/HTTP Headers.md",
@@ -202,7 +204,6 @@
     "220/Dijkstra's Algorithm.md",
     "220/Adjacency Matrix Representation.md",
     "220/Weighted Digraph.md",
-    "220/Adjacency List Representation.md",
     "220/CS220 2024S1 A4.pdf",
     "images",
     "Untitled.canvas",
