@@ -6,7 +6,7 @@ links:
   - "[[Call-By-Reference]]"
 ---
 
-```
+```C
 #include <stdio.h>
 
 void swap(int i, int j) {
