@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Flask/Routing.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Flask/Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Flask/Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Flask/Routing.md"
+              }
             }
           }
         ]
@@ -160,9 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "172f3095c3caae3b",
+  "active": "819522e86b5e8907",
   "lastOpenFiles": [
     "Untitled.md",
+    "Flask/Routing.md",
+    "Flask",
     "Javascript/Untitled.md",
     "215/Network Types.md",
     "220/Dijkstra's Algorithm.md",
@@ -188,7 +194,6 @@
     "220/Digraphs.md",
     "220/Girth.md",
     "220/General Graph Traversal Algorithm.md",
-    "215/Digest HTTP Authentication.md",
     "z.images/Pasted image 20240527181522.png",
     "z.images/Pasted image 20240527181231.png",
     "z.images/Pasted image 20240527181138.png",
@@ -207,7 +212,6 @@
     "215/HTTP",
     "220/CS220 2024S1 A4.pdf",
     "images",
-    "Untitled.canvas",
-    "COMPSCI 215"
+    "Untitled.canvas"
   ]
 }
