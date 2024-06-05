@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flask/Routing.md",
+                "file": "EDUC121/The Gothenburg Learning Studies.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flask/Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flask/Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Flask/Routing.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -164,10 +160,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "819522e86b5e8907",
+  "active": "172f3095c3caae3b",
   "lastOpenFiles": [
-    "Untitled.md",
+    "EDUC121/The Gothenburg Learning Studies.md",
+    "Pasted image 20240605132541.png",
+    "EDUC121/Learning Strategies.md",
+    "EDUC121/Final Exam Content and Outline.md",
+    "educ121/Learning Strategies.md",
+    "educ121/The Gothenburg Learning Studies.md",
+    "educ121/The Gothenburg Learning.md",
+    "EDUC121/Vygotsky.md",
+    "EDUC121/The Gothenburg Learning.md",
+    "Pasted image 20240605130620.png",
+    "Pasted image 20240605130400.png",
+    "Pasted image 20240605125909.png",
+    "Pasted image 20240605125846.png",
     "Flask/Routing.md",
+    "Untitled.md",
     "Flask",
     "Javascript/Untitled.md",
     "215/Network Types.md",
@@ -185,25 +194,11 @@
     "220/Adjacency Matrix Representation.md",
     "220/Tree Representation.md",
     "220/Digraph Representation.md",
-    "220/Tarjan's Algorithm.md",
-    "220/Connectivity.md",
-    "210/Call-By-Value.md",
-    "210/Call-By-Reference.md",
-    "210/Data Types.md",
-    "215/HTTP Headers.md",
-    "220/Digraphs.md",
-    "220/Girth.md",
-    "220/General Graph Traversal Algorithm.md",
     "z.images/Pasted image 20240527181522.png",
     "z.images/Pasted image 20240527181231.png",
     "z.images/Pasted image 20240527181138.png",
     "z.images/Pasted image 20240527180806.png",
     "z.images/Pasted image 20240527181028.png",
-    "z.images/Pasted image 20240527180826.png",
-    "z.images/Pasted image 20240527175330.png",
-    "z.images/Pasted image 20240527171652.png",
-    "z.images/Pasted image 20240527170706.png",
-    "z.images/Pasted image 20240527170557.png",
     "z.images",
     "a.images",
     ":.images",
