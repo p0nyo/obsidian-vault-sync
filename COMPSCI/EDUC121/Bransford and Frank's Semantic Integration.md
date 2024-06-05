@@ -1,8 +1,7 @@
 ---
 tags:
   - education
-links:
-  - "[[Cognitivism and Assumptions]]"
+links: []
 ---
 Undergraduate students listened to 24 sentences and answered simple questions about each one.
 

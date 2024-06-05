@@ -2,7 +2,7 @@
 tags:
   - education
 links:
-  - "[[Cognitivism and Assumptions]]"
+  - "[[Cognitivism]]"
 ---
 ![[Pasted image 20240605135010.png]]
 ![[Pasted image 20240605135024.png]]

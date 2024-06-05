@@ -6,7 +6,7 @@
       {
         "id": "e214704d525527f7",
         "type": "tabs",
-        "dimension": 46.74329501915709,
+        "dimension": 49.297573435504475,
         "children": [
           {
             "id": "819522e86b5e8907",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EDUC121/Tolman's Purposive Behaviorism.md",
+                "file": "EDUC121/Gestalt Psychology.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "632dacd52dadfef0",
         "type": "tabs",
-        "dimension": 53.25670498084292,
+        "dimension": 50.702426564495525,
         "children": [
           {
             "id": "172f3095c3caae3b",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EDUC121/Tolman's Purposive Behaviorism.md",
+                "file": "EDUC121/Gestalt Psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EDUC121/Tolman's Purposive Behaviorism.md",
+                "file": "EDUC121/Gestalt Psychology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EDUC121/Tolman's Purposive Behaviorism.md"
+                "file": "EDUC121/Gestalt Psychology.md"
               }
             }
           }
@@ -166,9 +166,12 @@
   },
   "active": "819522e86b5e8907",
   "lastOpenFiles": [
+    "EDUC121/Key Ideas.md",
+    "EDUC121/Gestalt Psychology.md",
     "EDUC121/Bransford and Frank's Semantic Integration.md",
     "EDUC121/Tolman's Purposive Behaviorism.md",
-    "EDUC121/Cognitivism and Assumptions.md",
+    "EDUC121/Cognitivism.md",
+    "Pasted image 20240605144908.png",
     "EDUC121/Cognitivism Tutorial (Week 8).md",
     "Pasted image 20240605135024.png",
     "Pasted image 20240605135010.png",
@@ -203,9 +206,6 @@
     "220/Topological Sort.md",
     "220/Arc Classification.md",
     "220/Graphs.md",
-    "220/ Directed Acyclic Graph (DAG).md",
-    "220/Sub-Digraphs.md",
-    "z.images/Pasted image 20240527181522.png",
     "z.images",
     "a.images",
     ":.images",
