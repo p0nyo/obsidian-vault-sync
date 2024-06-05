@@ -6,7 +6,7 @@
       {
         "id": "e214704d525527f7",
         "type": "tabs",
-        "dimension": 46.69379450661241,
+        "dimension": 46.74329501915709,
         "children": [
           {
             "id": "819522e86b5e8907",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EDUC121/The Gothenburg Learning Studies.md",
+                "file": "EDUC121/Cognitivism.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "632dacd52dadfef0",
         "type": "tabs",
-        "dimension": 53.306205493387594,
+        "dimension": 53.25670498084292,
         "children": [
           {
             "id": "172f3095c3caae3b",
@@ -162,10 +162,20 @@
   },
   "active": "172f3095c3caae3b",
   "lastOpenFiles": [
-    "EDUC121/The Gothenburg Learning Studies.md",
-    "Pasted image 20240605132541.png",
+    "EDUC121/Cognitivism.md",
+    "EDUC121/Cognitivism Tutorial (Week 8).md",
+    "Pasted image 20240605135024.png",
+    "Pasted image 20240605135010.png",
+    "Pasted image 20240605135002.png",
+    "EDUC121/Conceptions of Learning.md",
+    "EDUC121/~$24 EDUC 121 Week 8 STUDENT tutorial task FINAL.docx",
+    "EDUC121/Different Learning Approaches.md",
     "EDUC121/Learning Strategies.md",
     "EDUC121/Final Exam Content and Outline.md",
+    "EDUC121/Dual-Store Information Processing Model.md",
+    "EDUC121/2024 EDUC 121 Week 8 STUDENT tutorial task FINAL.docx",
+    "Pasted image 20240605134200.png",
+    "Pasted image 20240605132541.png",
     "educ121/Learning Strategies.md",
     "educ121/The Gothenburg Learning Studies.md",
     "educ121/The Gothenburg Learning.md",
@@ -191,22 +201,13 @@
     "220/Sub-Digraphs.md",
     "220/Time and Space Complexity.md",
     "220/Adjacency List Representation.md",
-    "220/Adjacency Matrix Representation.md",
-    "220/Tree Representation.md",
-    "220/Digraph Representation.md",
     "z.images/Pasted image 20240527181522.png",
-    "z.images/Pasted image 20240527181231.png",
-    "z.images/Pasted image 20240527181138.png",
-    "z.images/Pasted image 20240527180806.png",
-    "z.images/Pasted image 20240527181028.png",
     "z.images",
     "a.images",
     ":.images",
     ":images",
     "Leetcode",
     "215/HTTP",
-    "220/CS220 2024S1 A4.pdf",
-    "images",
     "Untitled.canvas"
   ]
 }
