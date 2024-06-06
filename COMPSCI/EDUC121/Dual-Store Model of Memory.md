@@ -16,7 +16,7 @@ links:
 		- Goes straight to the working memory
 		- Interference
 			- 
-	1. Implicit Memory
+	4. Implicit Memory
 		- When you are primed to think about something without your knowledge
 ![[Pasted image 20240606204921.png]]
 - Attention is needed to store something from the sensory registers to working memory ![[Pasted image 20240606205018.png]]
@@ -29,8 +29,10 @@ links:
 	3. Duration
 		- 3 - 30 seconds
 ![[Pasted image 20240606205153.png]]
+![[Pasted image 20240606210220.png]]
 - Long-Term Memory
 	- Important stuff
 	- Can fuel stereotypes
 	- Beliefs and values etc
+![[Pasted image 20240606210413.png]]
 ![[Pasted image 20240606205112.png]]
