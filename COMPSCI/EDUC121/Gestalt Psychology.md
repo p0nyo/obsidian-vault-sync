@@ -19,4 +19,6 @@ links: []
 	- **Law of Closure**
 		- People tend to fill in missing pieces to form a complete picture
 4. Learning follows the Law of Praganz
-	- 
+	- Formation of memory traces
+5. Problem solving involves restructuring and insight
+	- Combining and recombining things
