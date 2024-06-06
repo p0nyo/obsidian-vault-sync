@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EDUC121/Verbal Learning Research.md",
+                "file": "EDUC121/Cognitivism Tutorial (Week 8).md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f529f11f5b3bf5e0",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EDUC121/Verbal Learning Research.md",
+                "file": "EDUC121/Cognitivism Tutorial (Week 8).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EDUC121/Verbal Learning Research.md",
+                "file": "EDUC121/Cognitivism Tutorial (Week 8).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EDUC121/Verbal Learning Research.md"
+                "file": "EDUC121/Cognitivism Tutorial (Week 8).md"
               }
             }
           }
@@ -166,11 +167,18 @@
   },
   "active": "819522e86b5e8907",
   "lastOpenFiles": [
-    "EDUC121/Gestalt Psychology.md",
-    "EDUC121/Verbal Learning Research.md",
-    "EDUC121/Key Ideas.md",
-    "EDUC121/Bransford and Frank's Semantic Integration.md",
+    "EDUC121/Memory and Its' Components.md",
+    "EDUC121/Dual-Store Model of Memory.md",
+    "EDUC121/Contextual Theories.md",
+    "EDUC121/Constructivism.md",
+    "EDUC121/Current Cognitive Perspectives.md",
     "EDUC121/Tolman's Purposive Behaviorism.md",
+    "EDUC121/Information Processing Theories.md",
+    "EDUC121/Dual-Store Information Processing Model.md",
+    "EDUC121/Key Ideas.md",
+    "EDUC121/Verbal Learning Research.md",
+    "EDUC121/Gestalt Psychology.md",
+    "EDUC121/Bransford and Frank's Semantic Integration.md",
     "EDUC121/Cognitivism.md",
     "Pasted image 20240605144908.png",
     "EDUC121/Cognitivism Tutorial (Week 8).md",
@@ -182,7 +190,6 @@
     "EDUC121/Different Learning Approaches.md",
     "EDUC121/Learning Strategies.md",
     "EDUC121/Final Exam Content and Outline.md",
-    "EDUC121/Dual-Store Information Processing Model.md",
     "EDUC121/2024 EDUC 121 Week 8 STUDENT tutorial task FINAL.docx",
     "Pasted image 20240605134200.png",
     "Pasted image 20240605132541.png",
@@ -199,13 +206,7 @@
     "Untitled.md",
     "Flask",
     "Javascript/Untitled.md",
-    "215/Network Types.md",
-    "220/Dijkstra's Algorithm.md",
     "Javascript",
-    "220/Bipartite Graphs.md",
-    "220/Weighted Digraph.md",
-    "220/Topological Sort.md",
-    "220/Arc Classification.md",
     "z.images",
     "a.images",
     ":.images",
