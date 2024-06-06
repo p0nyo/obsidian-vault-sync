@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EDUC121/Gestalt Psychology.md",
+                "file": "EDUC121/Verbal Learning Research.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "EDUC121/Verbal Learning Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "EDUC121/Verbal Learning Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "EDUC121/Verbal Learning Research.md"
+              }
             }
           }
         ]
@@ -160,9 +164,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "172f3095c3caae3b",
+  "active": "819522e86b5e8907",
   "lastOpenFiles": [
     "EDUC121/Gestalt Psychology.md",
+    "EDUC121/Verbal Learning Research.md",
     "EDUC121/Key Ideas.md",
     "EDUC121/Bransford and Frank's Semantic Integration.md",
     "EDUC121/Tolman's Purposive Behaviorism.md",
@@ -201,7 +206,6 @@
     "220/Weighted Digraph.md",
     "220/Topological Sort.md",
     "220/Arc Classification.md",
-    "220/Graphs.md",
     "z.images",
     "a.images",
     ":.images",
