@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EDUC121/LTM Retrieval.md",
+                "file": "EDUC121/Forgetting.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EDUC121/LTM Retrieval.md",
+                "file": "EDUC121/Forgetting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EDUC121/LTM Retrieval.md",
+                "file": "EDUC121/Forgetting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EDUC121/LTM Retrieval.md"
+                "file": "EDUC121/Forgetting.md"
               }
             }
           }
@@ -167,27 +167,28 @@
   },
   "active": "819522e86b5e8907",
   "lastOpenFiles": [
-    "EDUC121/LTM Storage.md",
     "EDUC121/LTM Retrieval.md",
+    "EDUC121/Forgetting.md",
+    "Pasted image 20240607194258.png",
+    "EDUC121/Dual-Store Model of Memory.md",
+    "EDUC121/Memory and Its' Components.md",
+    "EDUC121/LTM Storage.md",
+    "EDUC121/Cognitivism Tutorial (Week 8).md",
     "Pasted image 20240607183101.png",
     "EDUC121/Final Exam Content and Outline.md",
     "Pasted image 20240607182405.png",
     "Pasted image 20240607180527.png",
-    "EDUC121/Dual-Store Model of Memory.md",
     "Pasted image 20240606210413.png",
     "Pasted image 20240606210335.png",
     "Pasted image 20240606210220.png",
     "Pasted image 20240606205153.png",
     "Pasted image 20240606205112.png",
     "Pasted image 20240606205018.png",
-    "Pasted image 20240606204921.png",
     "EDUC121/Dual-Store Information Processing Model.md",
     "EDUC121/Information Processing Theories.md",
     "EDUC121/Contextual Theories.md",
     "EDUC121/Constructivism.md",
     "EDUC121/Gestalt Psychology.md",
-    "EDUC121/Cognitivism Tutorial (Week 8).md",
-    "EDUC121/Memory and Its' Components.md",
     "EDUC121/Current Cognitive Perspectives.md",
     "EDUC121/Tolman's Purposive Behaviorism.md",
     "EDUC121/Key Ideas.md",
@@ -204,7 +205,6 @@
     "educ121/The Gothenburg Learning.md",
     "EDUC121/Vygotsky.md",
     "EDUC121/The Gothenburg Learning.md",
-    "Flask/Routing.md",
     "Flask",
     "Javascript",
     "z.images",
