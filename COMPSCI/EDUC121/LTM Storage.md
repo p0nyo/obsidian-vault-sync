@@ -22,9 +22,11 @@ links:
 - Associating new information with existing information (prior knowledge) -> UNDERSTANDING (comprehension)
 **Internal Organisation**:
 - When information is interconnected in some way -> organisational schemes/schema
+- Chunking 
 **Elaboration**:
 - Elaboration involves the use of prior knowledge but adding new information by themselves, their own interpretations
 - Learning more than the material presented
+![[Pasted image 20240607200642.png]]
 #### Factors Affecting LTM Storage
 **Working Memory**:
 - Limited capacity of WM is why multitasking is not effective in storage and retrieval
