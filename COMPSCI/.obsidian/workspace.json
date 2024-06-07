@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EDUC121/Dual-Store Model of Memory.md",
+                "file": "EDUC121/LTM Retrieval.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EDUC121/Dual-Store Model of Memory.md",
+                "file": "EDUC121/LTM Retrieval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EDUC121/Dual-Store Model of Memory.md",
+                "file": "EDUC121/LTM Retrieval.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EDUC121/Dual-Store Model of Memory.md"
+                "file": "EDUC121/LTM Retrieval.md"
               }
             }
           }
@@ -167,6 +167,13 @@
   },
   "active": "819522e86b5e8907",
   "lastOpenFiles": [
+    "EDUC121/LTM Storage.md",
+    "EDUC121/LTM Retrieval.md",
+    "Pasted image 20240607183101.png",
+    "EDUC121/Final Exam Content and Outline.md",
+    "Pasted image 20240607182405.png",
+    "Pasted image 20240607180527.png",
+    "EDUC121/Dual-Store Model of Memory.md",
     "Pasted image 20240606210413.png",
     "Pasted image 20240606210335.png",
     "Pasted image 20240606210220.png",
@@ -174,15 +181,10 @@
     "Pasted image 20240606205112.png",
     "Pasted image 20240606205018.png",
     "Pasted image 20240606204921.png",
-    "EDUC121/Dual-Store Model of Memory.md",
-    "Pasted image 20240606204639.png",
-    "Pasted image 20240606204030.png",
     "EDUC121/Dual-Store Information Processing Model.md",
     "EDUC121/Information Processing Theories.md",
-    "Pasted image 20240606204000.png",
     "EDUC121/Contextual Theories.md",
     "EDUC121/Constructivism.md",
-    "Pasted image 20240606203414.png",
     "EDUC121/Gestalt Psychology.md",
     "EDUC121/Cognitivism Tutorial (Week 8).md",
     "EDUC121/Memory and Its' Components.md",
@@ -196,7 +198,6 @@
     "EDUC121/~$24 EDUC 121 Week 8 STUDENT tutorial task FINAL.docx",
     "EDUC121/Different Learning Approaches.md",
     "EDUC121/Learning Strategies.md",
-    "EDUC121/Final Exam Content and Outline.md",
     "EDUC121/2024 EDUC 121 Week 8 STUDENT tutorial task FINAL.docx",
     "educ121/Learning Strategies.md",
     "educ121/The Gothenburg Learning Studies.md",
@@ -204,7 +205,6 @@
     "EDUC121/Vygotsky.md",
     "EDUC121/The Gothenburg Learning.md",
     "Flask/Routing.md",
-    "Untitled.md",
     "Flask",
     "Javascript",
     "z.images",
