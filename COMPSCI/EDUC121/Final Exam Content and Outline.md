@@ -4,7 +4,7 @@ tags:
 ---
 ### TODO
 - [x] Learning and Studying Effectively (Chapter 12)
-- [ ] Cognitive Factors in Motivation (Chapter 15)
+- [x] Cognitive Factors in Motivation (Chapter 15)
 - [ ] Finish doing all tutorial questions
 	- Follow exam format for tutorial questions (2 difficulty and 2 strategy each)
 - [ ] Finish self reflection exam questions

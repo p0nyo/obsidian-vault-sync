@@ -24,3 +24,4 @@ Three Key Dimension of the Theory of Attribution
 	- Uncontrollable are things we can't influence or change
 		- E.g Someone robbing you because you happened to walk down a certain street at a certain time
 
+
