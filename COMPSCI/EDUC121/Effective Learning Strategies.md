@@ -38,4 +38,7 @@ The intentional use of one or more cognitive processes to accomplish a particula
 		2. Pegword Method
 			- Using a well-known list of items that serve as "pegs" in which another list can be "hung" onto each item through visual imagery
 		3. Keyword Method
-			- Similar to verbal mediation but with extra steps, 
+			- Similar to verbal mediation but with extra steps
+			- E.g German Word (das Pferd), English Meaning (Horse), Keyword (Ford), Visual Imagery (Horse driving a ford)
+7. **Superimpose Meaningful Structure**
+	- Acronyms, Songs, Stories, Sentences that relate to the information learnt

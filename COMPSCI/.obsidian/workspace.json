@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EDUC121/Effective Learning Strategies.md",
+                "file": "EDUC121/Weiner's Theory of Attribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EDUC121/Effective Learning Strategies.md",
+                "file": "EDUC121/Weiner's Theory of Attribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EDUC121/Effective Learning Strategies.md",
+                "file": "EDUC121/Weiner's Theory of Attribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EDUC121/Effective Learning Strategies.md"
+                "file": "EDUC121/Weiner's Theory of Attribution.md"
               }
             }
           }
@@ -168,16 +168,17 @@
   },
   "active": "819522e86b5e8907",
   "lastOpenFiles": [
-    "EDUC121/LTM Storage.md",
-    "EDUC121/Effective Learning Strategies.md",
+    "EDUC121/Self Reflection Exam Questions.md",
+    "EDUC121/Weiner's Theory of Attribution.md",
     "EDUC121/Final Exam Content and Outline.md",
+    "EDUC121/Effective Learning Strategies.md",
+    "EDUC121/LTM Storage.md",
     "EDUC121/Bransford and Frank's Semantic Integration.md",
     "EDUC121/Tolman's Purposive Behaviorism.md",
     "EDUC121/Verbal Learning Research.md",
     "EDUC121/Constructivism.md",
     "EDUC121/Information Processing Theories.md",
     "EDUC121/Learning Strategies.md",
-    "EDUC121/Self Reflection Questions.md",
     "EDUC121/LTM Storage and Retrieval Tutorial (Week 10).md",
     "EDUC121/Gestalt Psychology.md",
     "EDUC121/LTM Retrieval.md",
@@ -203,7 +204,6 @@
     "EDUC121/Contextual Theories.md",
     "EDUC121/Current Cognitive Perspectives.md",
     "EDUC121/Key Ideas.md",
-    "EDUC121/Cognitivism.md",
     "EDUC121/~$24 EDUC 121 Week 8 STUDENT tutorial task FINAL.docx",
     "EDUC121/2024 EDUC 121 Week 8 STUDENT tutorial task FINAL.docx",
     "Flask",
