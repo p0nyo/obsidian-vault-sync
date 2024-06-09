@@ -23,4 +23,4 @@ Justin is trying to learn new information in his textbook. His eyes are focused 
 After her French teacher says, “Merci beaucoup,” Josephine repeats the phrase, then she immediately turns to talk to her friend.
 1. The information that the teacher says gets into her WM as she was able to repeat it back to the teacher
 2. By immediately talk to her friend, Josephine does not encode the given information to the LTM and she will most likely forget the phrase soon
-3. Encoding + LTM: she didn't take the extra time to properly put the knowledge into her LTM
+3. Encoding + LTM: she didn't take the extra time to properly put the knowledge into her LTM      
