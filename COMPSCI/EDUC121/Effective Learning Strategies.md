@@ -42,3 +42,7 @@ The intentional use of one or more cognitive processes to accomplish a particula
 			- E.g German Word (das Pferd), English Meaning (Horse), Keyword (Ford), Visual Imagery (Horse driving a ford)
 7. **Superimpose Meaningful Structure**
 	- Acronyms, Songs, Stories, Sentences that relate to the information learnt
+8. **Conceptual Understanding**:
+    - The importance of meaningful learning over rote memorization is emphasized. Understanding underlying concepts and principles helps in applying knowledge more effectively.
+9. **Application-Based Learning**:
+    - The benefits of applying knowledge in practical tasks and real-world scenarios. This approach helps in solidifying understanding and enhancing the ability to transfer knowledge to different contexts.

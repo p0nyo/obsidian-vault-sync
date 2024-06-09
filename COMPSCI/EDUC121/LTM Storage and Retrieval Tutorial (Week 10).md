@@ -19,3 +19,7 @@ on playing pianos, she had ==difficulty transferring and utilising this knowledg
 		- Actually practice the scales she learnt on piano but on other instruments
 	2. (Strategy 2) Conceptual Learning
 		- Learning the actual concepts required instead of just trying to memorise everything forcefully
+3. (Difficulty 3) Interference (Pro-active)
+	1. (Strategy 1) Mnemonics
+		- Can use mnemonics in order to help differentiate between each of the scales by associating them to unique visual imagery
+	2. 
