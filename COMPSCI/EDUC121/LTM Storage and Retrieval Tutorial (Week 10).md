@@ -10,8 +10,12 @@ on playing pianos, she had ==difficulty transferring and utilising this knowledg
 
 ##### Answers
 1. (Difficulty 1) Overwhelmed by the sheer amount of information that she needs to learn
-	1. (Strategy 1) Use Mnemonics and Visual Aids
+	1. (Strategy 1) Superimposing Meaningful Structure and using Visual Aids
 		- Creating acronyms for the names of the scales or using visual aids such as graphs in order to visually differentiate between different scales
 	2. (Strategy 2) Chunking information
 		- Learning a few scales a day or at a time, instead of trying to practice them all everyday
-2. (Difficulty 2) Finding it hard to transfer the knowledge that she learnt 
+2. (Difficulty 2) Finding it hard to transfer the knowledge that she learnt playing piano to other instruments
+	1. (Strategy 1) Practical Application
+		- Actually practice the scales she learnt on piano but on other instruments
+	2. (Strategy 2) Conceptual Learning
+		- Learning the actual concepts required instead of just trying to memorise everything forcefully
