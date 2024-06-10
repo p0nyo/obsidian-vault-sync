@@ -5,7 +5,7 @@ links:
   - "[[Final Exam Content and Outline]]"
 ---
 **Chapter 12 in the Coursebook**
-General Framework
+General Framework  
 ![[Pasted image 20240605130400.png]]
 - 3 things to determine your intentions, which influences your behaviour
 ###### Significance of Beliefs
