@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220/General Graph Traversal Algorithm.md",
+                "file": "220/Tarjan's Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "search fores",
+                "query": "tarjan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220/General Graph Traversal Algorithm.md",
+                "file": "220/Tarjan's Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "220/General Graph Traversal Algorithm.md",
+                "file": "220/Tarjan's Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "220/General Graph Traversal Algorithm.md"
+                "file": "220/Tarjan's Algorithm.md"
               }
             }
           }
@@ -167,14 +167,21 @@
   },
   "active": "819522e86b5e8907",
   "lastOpenFiles": [
-    "220/Search Forest Theorems.md",
-    "220/General Graph Traversal Algorithm.md",
+    "220/Digraphs.md",
+    "220/Connectivity.md",
+    "220/Girth.md",
+    "220/BFS Applications.md",
+    "220/Finding Girth of Digraph.md",
+    "220/ Directed Acyclic Graph (DAG).md",
+    "220/Arc Classification.md",
+    "220/Tarjan's Algorithm.md",
+    "220/Topological Sort.md",
     "220/Depth First Search (DFS).md",
+    "220/General Graph Traversal Algorithm.md",
+    "220/Search Forest Theorems.md",
     "220/Adjacency Matrix Representation.md",
     "220/Adjacency List Representation.md",
-    "220/Digraphs.md",
     "220/Graphs.md",
-    "220/Connectivity.md",
     "EDUC121/Weiner's Theory of Attribution.md",
     "EDUC121/Effective Learning Strategies.md",
     "EDUC121/Forgetting.md",
@@ -186,15 +193,8 @@
     "EDUC121/Dual-Store Information Processing Model.md",
     "EDUC121/Dual-Store Model of Memory.md",
     "EDUC121/LTM Storage and Retrieval Tutorial (Week 10).md",
-    "EDUC121/Cognitivism Tutorial (Week 8).md",
-    "EDUC121/Memory Tutorial (Week 9).md",
-    "EDUC121/Final Exam Content and Outline.md",
     "Pasted image 20240610195531.png",
     "Pasted image 20240610195415.png",
-    "EDUC121/Current Cognitive Perspectives.md",
-    "EDUC121/Contextual Theories.md",
-    "EDUC121/Tutorials.md",
-    "EDUC121/The Nature of Knowledge Tutorial (Week 11).md",
     "Pasted image 20240607200642.png",
     "Pasted image 20240607195604.png",
     "Pasted image 20240607194604.png",
