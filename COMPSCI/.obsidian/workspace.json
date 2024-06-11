@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "self testing",
+                "query": "search fores",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f529f11f5b3bf5e0",
@@ -105,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "220/General Graph Traversal Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "220/General Graph Traversal Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "220/General Graph Traversal Algorithm.md"
+              }
             }
           }
         ]
@@ -162,12 +165,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "172f3095c3caae3b",
+  "active": "819522e86b5e8907",
   "lastOpenFiles": [
+    "220/Search Forest Theorems.md",
     "220/General Graph Traversal Algorithm.md",
+    "220/Depth First Search (DFS).md",
+    "220/Adjacency Matrix Representation.md",
+    "220/Adjacency List Representation.md",
+    "220/Digraphs.md",
     "220/Graphs.md",
     "220/Connectivity.md",
-    "220/Digraphs.md",
     "EDUC121/Weiner's Theory of Attribution.md",
     "EDUC121/Effective Learning Strategies.md",
     "EDUC121/Forgetting.md",
@@ -188,10 +195,6 @@
     "EDUC121/Contextual Theories.md",
     "EDUC121/Tutorials.md",
     "EDUC121/The Nature of Knowledge Tutorial (Week 11).md",
-    "EDUC121/Conceptions of Learning.md",
-    "EDUC121/Self Reflection Exam Questions.md",
-    "EDUC121/Bransford and Frank's Semantic Integration.md",
-    "EDUC121/Tolman's Purposive Behaviorism.md",
     "Pasted image 20240607200642.png",
     "Pasted image 20240607195604.png",
     "Pasted image 20240607194604.png",
