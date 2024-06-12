@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220/Floyd's Algorithm.md",
+                "file": "220/Prim's Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220/Floyd's Algorithm.md",
+                "file": "220/Prim's Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "220/Floyd's Algorithm.md",
+                "file": "220/Prim's Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "220/Floyd's Algorithm.md"
+                "file": "220/Prim's Algorithm.md"
               }
             }
           }
@@ -168,17 +168,22 @@
   },
   "active": "819522e86b5e8907",
   "lastOpenFiles": [
+    "Pasted image 20240612170453.png",
+    "220/Prim's Algorithm.md",
+    "Pasted image 20240612165925.png",
+    "220/Spanning Trees.md",
+    "220/Weighted Digraph.md",
+    "220/Bipartite Graphs.md",
+    "220/Floyd's Algorithm.md",
     "Pasted image 20240612164250.png",
     "Pasted image 20240612163257.png",
     "220/APSP Problem.md",
-    "220/Floyd's Algorithm.md",
     "Pasted image 20240612161928.png",
     "220/SSSP Problem.md",
     "220/Tarjan's Algorithm.md",
     "220/General Graph Traversal Algorithm.md",
     "220/Bellman-Ford Algorithm.md",
     "220/Dijkstra's Algorithm.md",
-    "220/Weighted Digraph.md",
     "Pasted image 20240612154252.png",
     "Flask/Routing.md",
     "220/Sub-Digraphs.md",
@@ -186,7 +191,6 @@
     "220/Digraphs.md",
     "210/Data Types.md",
     "215/Block Ciphers.md",
-    "220/Bipartite Graphs.md",
     "220/Connectivity.md",
     "220/Girth.md",
     "220/BFS Applications.md",
@@ -195,15 +199,11 @@
     "220/Arc Classification.md",
     "220/Topological Sort.md",
     "220/Depth First Search (DFS).md",
-    "220/Search Forest Theorems.md",
-    "220/Adjacency Matrix Representation.md",
     "Pasted image 20240610195531.png",
     "Pasted image 20240610195415.png",
     "Pasted image 20240607200642.png",
     "Pasted image 20240607195604.png",
     "Pasted image 20240607194604.png",
-    "Pasted image 20240607194258.png",
-    "Pasted image 20240607183101.png",
     "EDUC121/~$24 EDUC 121 Week 8 STUDENT tutorial task FINAL.docx",
     "EDUC121/2024 EDUC 121 Week 8 STUDENT tutorial task FINAL.docx",
     "Flask",

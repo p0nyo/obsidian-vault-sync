@@ -3,7 +3,7 @@ tags:
   - compsci
   - math
 links:
-  - "[[Graphs]]"
+  - "[[Sub-Digraphs]]"
 ---
 ##### Weighted Digraph (G,C)
 `G` -> Graph
