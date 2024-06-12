@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EDUC121/Effective Learning Strategies.md",
+                "file": "220/Weighted Digraph.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "diamete",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f529f11f5b3bf5e0",
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EDUC121/Effective Learning Strategies.md",
+                "file": "220/Weighted Digraph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EDUC121/Effective Learning Strategies.md",
+                "file": "220/Weighted Digraph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EDUC121/Effective Learning Strategies.md"
+                "file": "220/Weighted Digraph.md"
               }
             }
           }
@@ -168,9 +167,10 @@
   },
   "active": "819522e86b5e8907",
   "lastOpenFiles": [
+    "220/Prim's Algorithm.md",
+    "EDUC121/Effective Learning Strategies.md",
     "EDUC121/Learning Strategies.md",
     "220/Dijkstra's Algorithm.md",
-    "220/Prim's Algorithm.md",
     "220/Bipartite Graphs.md",
     "220/Digraphs.md",
     "220/APSP Problem.md",
@@ -200,7 +200,6 @@
     "Pasted image 20240612154252.png",
     "Flask/Routing.md",
     "220/Sub-Digraphs.md",
-    "220/Graphs.md",
     "Pasted image 20240610195531.png",
     "Pasted image 20240610195415.png",
     "Pasted image 20240607200642.png",
