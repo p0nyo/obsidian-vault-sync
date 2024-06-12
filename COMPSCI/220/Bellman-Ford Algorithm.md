@@ -3,7 +3,7 @@ tags:
   - compsci
   - math
 links:
-  - "[[Weighted Digraph]]"
+  - "[[SSSP Problem]]"
 ---
 ![[Pasted image 20240612154252.png]]
 - Loop `i` from 0 to n-1, which is the number of nodes there are

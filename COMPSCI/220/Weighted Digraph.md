@@ -3,7 +3,6 @@ tags:
   - compsci
   - math
 links:
-  - "[[General Graph Traversal Algorithm]]"
   - "[[Graphs]]"
 ---
 ##### Weighted Digraph (G,C)
