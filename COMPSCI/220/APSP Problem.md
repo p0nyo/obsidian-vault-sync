@@ -14,4 +14,4 @@ $$O(nm logn)$$
 - Sparse diagram: $$O(n^2logn)$$
 - Dense diagram: $$O(n^3logn)$$
 **Bellman-Ford**
-- Bellman-Ford is already O()
+- Bellman-Ford is already O(nm), therefore to run it n times, it is: $$O(n^2m)$$
