@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220/Sub-Digraphs.md",
+                "file": "220/DFS Useful Results.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "radius",
+                "query": "seen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220/Sub-Digraphs.md",
+                "file": "220/DFS Useful Results.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "220/Sub-Digraphs.md",
+                "file": "220/DFS Useful Results.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "220/Sub-Digraphs.md"
+                "file": "220/DFS Useful Results.md"
               }
             }
           }
@@ -165,8 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73364cb62ee90368",
+  "active": "819522e86b5e8907",
   "lastOpenFiles": [
+    "220/Depth First Search (DFS).md",
+    "220/Sub-Digraphs.md",
     "220/Weighted Digraph.md",
     "220/Prim's Algorithm.md",
     "EDUC121/Effective Learning Strategies.md",
@@ -198,8 +200,6 @@
     "220/Tarjan's Algorithm.md",
     "220/General Graph Traversal Algorithm.md",
     "Pasted image 20240612154252.png",
-    "Flask/Routing.md",
-    "220/Sub-Digraphs.md",
     "Pasted image 20240610195531.png",
     "Pasted image 20240610195415.png",
     "Pasted image 20240607200642.png",
