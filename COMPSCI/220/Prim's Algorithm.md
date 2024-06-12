@@ -12,7 +12,7 @@ links:
 	- The subgraph remains connected
 ![[Pasted image 20240612170453.png|200]]
 - Choosing the lowest weight for each arc when creating the sub-graph 
-- Start at a node and di
+- Start at a node and disperse from node, choosing the smallest weights when traversing
 
 #### Running Time
 $$O(mlogn)$$

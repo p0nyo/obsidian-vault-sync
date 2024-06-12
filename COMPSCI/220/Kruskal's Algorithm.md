@@ -10,7 +10,7 @@ links:
 	- Adding the edge does not create a cycle
 - Same as Prim's Algorithm but the subgraph does not have to remain connected
 ![[Pasted image 20240612174546.png|200]]
-- Look at the weights in the graph starting from weight = 1
+- Look at the weights in the graph starting from weight = 1 and choosing the arcs that won't create a cycle
 #### Running Time
 $$O(mlogn)$$
 

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220/Prim's Algorithm.md",
+                "file": "220/DFS Useful Results.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spannin",
+                "query": "zero",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220/Prim's Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "220/Prim's Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "220/Prim's Algorithm.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -166,11 +162,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "819522e86b5e8907",
+  "active": "172f3095c3caae3b",
   "lastOpenFiles": [
-    "220/Kruskal's Algorithm.md",
-    "Pasted image 20240612174546.png",
+    "220/DFS Useful Results.md",
+    "220/Zero In-Degree Sorting.md",
     "220/Prim's Algorithm.md",
+    "220/Kruskal's Algorithm.md",
+    "220/Digraphs.md",
+    "Pasted image 20240612174546.png",
     "Pasted image 20240612170453.png",
     "Pasted image 20240612165925.png",
     "220/Spanning Trees.md",
@@ -190,7 +189,6 @@
     "Flask/Routing.md",
     "220/Sub-Digraphs.md",
     "220/Graphs.md",
-    "220/Digraphs.md",
     "210/Data Types.md",
     "215/Block Ciphers.md",
     "220/Connectivity.md",
@@ -199,7 +197,6 @@
     "220/Finding Girth of Digraph.md",
     "220/ Directed Acyclic Graph (DAG).md",
     "220/Arc Classification.md",
-    "220/Topological Sort.md",
     "Pasted image 20240610195531.png",
     "Pasted image 20240610195415.png",
     "Pasted image 20240607200642.png",

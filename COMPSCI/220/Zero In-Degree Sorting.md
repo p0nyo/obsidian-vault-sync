@@ -13,4 +13,5 @@ while V(G) is not empty
 
 ```
 - Keep finding sources until none left
-- 
+#### Running Time
+$$O(n+m)$$
