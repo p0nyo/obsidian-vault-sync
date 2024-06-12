@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220/Weighted Digraph.md",
+                "file": "220/Sub-Digraphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diamete",
+                "query": "radius",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220/Weighted Digraph.md",
+                "file": "220/Sub-Digraphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "220/Weighted Digraph.md",
+                "file": "220/Sub-Digraphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "220/Weighted Digraph.md"
+                "file": "220/Sub-Digraphs.md"
               }
             }
           }
@@ -165,8 +165,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "819522e86b5e8907",
+  "active": "73364cb62ee90368",
   "lastOpenFiles": [
+    "220/Weighted Digraph.md",
     "220/Prim's Algorithm.md",
     "EDUC121/Effective Learning Strategies.md",
     "EDUC121/Learning Strategies.md",
@@ -189,7 +190,6 @@
     "Pasted image 20240612170453.png",
     "Pasted image 20240612165925.png",
     "220/Spanning Trees.md",
-    "220/Weighted Digraph.md",
     "220/Floyd's Algorithm.md",
     "Pasted image 20240612164250.png",
     "Pasted image 20240612163257.png",
