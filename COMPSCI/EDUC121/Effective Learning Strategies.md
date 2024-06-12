@@ -4,7 +4,7 @@ tags:
 links:
   - "[[Learning Strategies]]"
 ---
-The intentional use of one or more cognitive processes to accomplish a particular learning task.
+	The intentional use of one or more cognitive processes to accomplish a particular learning task.
 1. **Meaningful Learning, Organisation and Elaboration**
 	- Link to [[LTM Storage]]
 	- **Approach 1**
