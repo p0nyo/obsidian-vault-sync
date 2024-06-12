@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220/DFS Useful Results.md",
+                "file": "220/Bellman-Ford Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "seen",
+                "query": "graph",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220/DFS Useful Results.md",
+                "file": "220/Bellman-Ford Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "220/DFS Useful Results.md",
+                "file": "220/Bellman-Ford Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "220/DFS Useful Results.md"
+                "file": "220/Bellman-Ford Algorithm.md"
               }
             }
           }
@@ -167,13 +167,18 @@
   },
   "active": "819522e86b5e8907",
   "lastOpenFiles": [
+    "220/Dijkstra's Algorithm.md",
+    "220/Bellman-Ford Algorithm.md",
+    "220/Floyd's Algorithm.md",
+    "220/Kruskal's Algorithm.md",
+    "220/Graphs.md",
+    "220/DFS Useful Results.md",
     "220/Depth First Search (DFS).md",
     "220/Sub-Digraphs.md",
     "220/Weighted Digraph.md",
     "220/Prim's Algorithm.md",
     "EDUC121/Effective Learning Strategies.md",
     "EDUC121/Learning Strategies.md",
-    "220/Dijkstra's Algorithm.md",
     "220/Bipartite Graphs.md",
     "220/Digraphs.md",
     "220/APSP Problem.md",
@@ -182,23 +187,18 @@
     "EDUC121/LTM Storage.md",
     "220/Time and Space Complexity.md",
     "220/Breadth First Search (BFS).md",
-    "220/Bellman-Ford Algorithm.md",
     "220/BFS Applications.md",
     "220/BFS Useful Results.md",
-    "220/DFS Useful Results.md",
     "220/Zero In-Degree Sorting.md",
-    "220/Kruskal's Algorithm.md",
     "Pasted image 20240612174546.png",
     "Pasted image 20240612170453.png",
     "Pasted image 20240612165925.png",
     "220/Spanning Trees.md",
-    "220/Floyd's Algorithm.md",
     "Pasted image 20240612164250.png",
     "Pasted image 20240612163257.png",
     "Pasted image 20240612161928.png",
     "220/SSSP Problem.md",
     "220/Tarjan's Algorithm.md",
-    "220/General Graph Traversal Algorithm.md",
     "Pasted image 20240612154252.png",
     "Pasted image 20240610195531.png",
     "Pasted image 20240610195415.png",
