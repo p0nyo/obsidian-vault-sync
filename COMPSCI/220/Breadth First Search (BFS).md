@@ -14,6 +14,9 @@ links:
 	- Find all white neighbours that `node 0` , starting from a lower index
 2. Then choose node that has been grey the longest amount of time, `node 1`
 	- Then go from `node 1`
+### Running Time
+$$O(m+n)$$
+
 ##### Function: BFS
 ![[Pasted image 20240518191931.png|200]]
 - Initialise three arrays, colour, pred and d (depth)
