@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220/Bellman-Ford Algorithm.md",
+                "file": "210/Global and Local.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f529f11f5b3bf5e0",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220/Bellman-Ford Algorithm.md",
+                "file": "210/Global and Local.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "220/Bellman-Ford Algorithm.md",
+                "file": "210/Global and Local.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "220/Bellman-Ford Algorithm.md"
+                "file": "210/Global and Local.md"
               }
             }
           }
@@ -167,8 +168,12 @@
   },
   "active": "819522e86b5e8907",
   "lastOpenFiles": [
-    "220/Dijkstra's Algorithm.md",
+    "Javascript/Untitled.md",
+    "210/Data Types.md",
+    "215/OSI Stack.md",
+    "210/Global and Local.md",
     "220/Bellman-Ford Algorithm.md",
+    "220/Dijkstra's Algorithm.md",
     "220/Floyd's Algorithm.md",
     "220/Kruskal's Algorithm.md",
     "220/Graphs.md",
@@ -189,16 +194,12 @@
     "220/Breadth First Search (BFS).md",
     "220/BFS Applications.md",
     "220/BFS Useful Results.md",
-    "220/Zero In-Degree Sorting.md",
     "Pasted image 20240612174546.png",
     "Pasted image 20240612170453.png",
     "Pasted image 20240612165925.png",
-    "220/Spanning Trees.md",
     "Pasted image 20240612164250.png",
     "Pasted image 20240612163257.png",
     "Pasted image 20240612161928.png",
-    "220/SSSP Problem.md",
-    "220/Tarjan's Algorithm.md",
     "Pasted image 20240612154252.png",
     "Pasted image 20240610195531.png",
     "Pasted image 20240610195415.png",
