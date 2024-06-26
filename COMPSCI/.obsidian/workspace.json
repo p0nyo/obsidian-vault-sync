@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f529f11f5b3bf5e0",
@@ -104,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "210/Global and Local.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "210/Global and Local.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "210/Global and Local.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -165,12 +162,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73364cb62ee90368",
+  "active": "172f3095c3caae3b",
   "lastOpenFiles": [
+    "210/Global and Local.md",
     "Javascript/Untitled.md",
     "210/Data Types.md",
     "215/OSI Stack.md",
-    "210/Global and Local.md",
     "220/Bellman-Ford Algorithm.md",
     "220/Dijkstra's Algorithm.md",
     "220/Floyd's Algorithm.md",
