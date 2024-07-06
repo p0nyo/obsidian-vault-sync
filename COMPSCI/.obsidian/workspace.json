@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e214704d525527f7",
+        "id": "67e6dabe1fce04bd",
         "type": "tabs",
         "dimension": 50.33557046979866,
         "children": [
           {
-            "id": "819522e86b5e8907",
+            "id": "24286e3f510a7dfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "210/Global and Local.md",
+                "file": "220/Sub-Digraphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -36,19 +36,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "24286e3f510a7dfe",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "activation",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,13 +83,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f529f11f5b3bf5e0",
@@ -116,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "210/Global and Local.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "210/Global and Local.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "210/Global and Local.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -177,8 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24286e3f510a7dfe",
+  "active": "172f3095c3caae3b",
   "lastOpenFiles": [
+    "220/Sub-Digraphs.md",
+    "TJC/Untitled.md",
+    "TJC/Untitled",
+    "TJC",
     "210/Global and Local.md",
     "Javascript/Untitled.md",
     "210/Data Types.md",
@@ -190,7 +177,6 @@
     "220/Graphs.md",
     "220/DFS Useful Results.md",
     "220/Depth First Search (DFS).md",
-    "220/Sub-Digraphs.md",
     "220/Weighted Digraph.md",
     "220/Prim's Algorithm.md",
     "EDUC121/Effective Learning Strategies.md",
@@ -203,8 +189,6 @@
     "EDUC121/LTM Storage.md",
     "220/Time and Space Complexity.md",
     "220/Breadth First Search (BFS).md",
-    "220/BFS Applications.md",
-    "220/BFS Useful Results.md",
     "Pasted image 20240612174546.png",
     "Pasted image 20240612170453.png",
     "Pasted image 20240612165925.png",
@@ -223,8 +207,6 @@
     "a.images",
     ":.images",
     ":images",
-    "Leetcode",
-    "215/HTTP",
     "Untitled.canvas"
   ]
 }
