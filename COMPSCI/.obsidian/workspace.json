@@ -6,7 +6,7 @@
       {
         "id": "67e6dabe1fce04bd",
         "type": "tabs",
-        "dimension": 50.33557046979866,
+        "dimension": 33.63228699551569,
         "children": [
           {
             "id": "24286e3f510a7dfe",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "220/Sub-Digraphs.md",
+                "file": "230/Type Conversion.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "632dacd52dadfef0",
         "type": "tabs",
-        "dimension": 49.66442953020134,
+        "dimension": 66.3677130044843,
         "children": [
           {
             "id": "172f3095c3caae3b",
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f529f11f5b3bf5e0",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "220/Sub-Digraphs.md",
+                "file": "230/Type Conversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "220/Sub-Digraphs.md",
+                "file": "230/Type Conversion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "220/Sub-Digraphs.md"
+                "file": "230/Type Conversion.md"
               }
             }
           }
@@ -164,8 +165,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "172f3095c3caae3b",
+  "active": "24286e3f510a7dfe",
   "lastOpenFiles": [
+    "230/Primitive Types.md",
+    "210/Call-By-Reference.md",
+    "Untitled 1.md",
+    "230/Type Conversion.md",
+    "Type.md",
+    "Untitled.md",
+    "Untitled",
     "220/Sub-Digraphs.md",
     "TJC/Untitled.md",
     "TJC/Untitled",
@@ -188,11 +196,6 @@
     "220/Bipartite Graphs.md",
     "220/Digraphs.md",
     "220/APSP Problem.md",
-    "220/Connectivity.md",
-    "220/Adjacency List Representation.md",
-    "EDUC121/LTM Storage.md",
-    "220/Time and Space Complexity.md",
-    "220/Breadth First Search (BFS).md",
     "Pasted image 20240612174546.png",
     "Pasted image 20240612170453.png",
     "Pasted image 20240612165925.png",
@@ -210,7 +213,6 @@
     "z.images",
     "a.images",
     ":.images",
-    ":images",
     "Untitled.canvas"
   ]
 }
