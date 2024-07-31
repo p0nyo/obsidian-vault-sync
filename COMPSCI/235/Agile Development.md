@@ -12,4 +12,10 @@ links:
 	- Progressively refines the functionality or capability based on user feedback and inputs
 - A shift towards agility leads to the speedy development of a:
 **Minimum Viable Product (MVP)**
-![[Pasted image 20240731194254.png]]
+###### Agile prioritises ... over ...
+![[Pasted image 20240731195748.png]]
+#### 12 Agile Principles
+![[Pasted image 20240731195848.png]]
+![[Pasted image 20240731195858.png]]
+#### Different Management Models
+![[Pasted image 20240731195953.png]]

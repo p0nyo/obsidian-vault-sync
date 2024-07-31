@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "235/Agile Development.md",
+                "file": "235/Version Control Systems (VCS).md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#gile",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,12 +83,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f529f11f5b3bf5e0",
@@ -104,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "235/Agile Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "235/Agile Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "235/Agile Development.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -165,11 +161,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24286e3f510a7dfe",
+  "active": "172f3095c3caae3b",
   "lastOpenFiles": [
+    "235/Version Control Systems (VCS).md",
+    "235/Agile Development.md",
+    "Pasted image 20240731195953.png",
+    "Pasted image 20240731195858.png",
+    "Pasted image 20240731195848.png",
+    "Pasted image 20240731195748.png",
     "Pasted image 20240731194254.png",
     "235/Development Approaches.md",
-    "235/Agile Development.md",
     "235/Software Development.md",
     "230/Promotions.md",
     "220/General Graph Traversal Algorithm.md",
@@ -202,11 +203,6 @@
     "220/Kruskal's Algorithm.md",
     "220/Graphs.md",
     "220/DFS Useful Results.md",
-    "Pasted image 20240612174546.png",
-    "Pasted image 20240612170453.png",
-    "Pasted image 20240612165925.png",
-    "Pasted image 20240612164250.png",
-    "Pasted image 20240612163257.png",
     "EDUC121/~$24 EDUC 121 Week 8 STUDENT tutorial task FINAL.docx",
     "EDUC121/2024 EDUC 121 Week 8 STUDENT tutorial task FINAL.docx",
     "Flask",
