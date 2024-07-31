@@ -6,7 +6,7 @@
       {
         "id": "67e6dabe1fce04bd",
         "type": "tabs",
-        "dimension": 45.07829977628635,
+        "dimension": 57.71670190274841,
         "children": [
           {
             "id": "24286e3f510a7dfe",
@@ -25,7 +25,7 @@
       {
         "id": "632dacd52dadfef0",
         "type": "tabs",
-        "dimension": 54.92170022371364,
+        "dimension": 42.28329809725159,
         "children": [
           {
             "id": "172f3095c3caae3b",
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f529f11f5b3bf5e0",
@@ -104,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "235/Version Control Systems (VCS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "235/Version Control Systems (VCS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "235/Version Control Systems (VCS).md"
+              }
             }
           }
         ]
@@ -161,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "172f3095c3caae3b",
+  "active": "24286e3f510a7dfe",
   "lastOpenFiles": [
     "235/Version Control Systems (VCS).md",
     "235/Agile Development.md",
