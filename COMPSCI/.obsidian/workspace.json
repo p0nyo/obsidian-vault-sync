@@ -6,7 +6,7 @@
       {
         "id": "67e6dabe1fce04bd",
         "type": "tabs",
-        "dimension": 48.88143176733781,
+        "dimension": 77.62863534675614,
         "children": [
           {
             "id": "24286e3f510a7dfe",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "230/Promotions.md",
+                "file": "235/Development Approaches.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "632dacd52dadfef0",
         "type": "tabs",
-        "dimension": 51.118568232662184,
+        "dimension": 22.371364653243848,
         "children": [
           {
             "id": "172f3095c3caae3b",
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "230/Promotions.md",
+                "file": "235/Development Approaches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "230/Promotions.md",
+                "file": "235/Development Approaches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "230/Promotions.md"
+                "file": "235/Development Approaches.md"
               }
             }
           }
@@ -167,10 +167,15 @@
   },
   "active": "24286e3f510a7dfe",
   "lastOpenFiles": [
+    "Pasted image 20240731162709.png",
+    "Pasted image 20240731162527.png",
+    "235/Software Development.md",
+    "235/Development Approaches.md",
+    "230/Promotions.md",
+    "235",
     "Pasted image 20240729153114.png",
     "Pasted image 20240729153035.png",
     "230/Method Overloading.md",
-    "230/Promotions.md",
     "230/Type Conversion.md",
     "230/Counter-Controlled Repetition.md",
     "230/Primitive Types.md",
@@ -195,8 +200,6 @@
     "220/DFS Useful Results.md",
     "220/Depth First Search (DFS).md",
     "220/Weighted Digraph.md",
-    "220/Prim's Algorithm.md",
-    "EDUC121/Effective Learning Strategies.md",
     "Pasted image 20240612174546.png",
     "Pasted image 20240612170453.png",
     "Pasted image 20240612165925.png",
@@ -204,15 +207,12 @@
     "Pasted image 20240612163257.png",
     "Pasted image 20240612161928.png",
     "Pasted image 20240612154252.png",
-    "Pasted image 20240610195531.png",
-    "Pasted image 20240610195415.png",
     "EDUC121/~$24 EDUC 121 Week 8 STUDENT tutorial task FINAL.docx",
     "EDUC121/2024 EDUC 121 Week 8 STUDENT tutorial task FINAL.docx",
     "Flask",
     "Javascript",
     "z.images",
     "a.images",
-    ":.images",
     "Untitled.canvas"
   ]
 }
