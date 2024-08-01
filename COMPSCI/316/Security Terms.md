@@ -48,7 +48,7 @@ links:
 	Can be characterised by levels of impact
 	- *Low*
 		- Minor damage or harm
-	- *Medium*
+	- *Medium
 		- Serious adverse effect
 	- *High*
 		- Severe or catastrophic adverse effect
