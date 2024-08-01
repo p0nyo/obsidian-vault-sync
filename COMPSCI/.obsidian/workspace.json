@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "235/Domain Modelling.md",
+                "file": "235/UML.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,6 +164,8 @@
   },
   "active": "172f3095c3caae3b",
   "lastOpenFiles": [
+    "235/UML.md",
+    "Pasted image 20240801155817.png",
     "235/Domain Modelling.md",
     "235/Git VCS.md",
     "Type.md",
@@ -182,7 +184,6 @@
     "220/General Graph Traversal Algorithm.md",
     "Pasted image 20240731192518.png",
     "Pasted image 20240731162709.png",
-    "Pasted image 20240731162527.png",
     "235",
     "230/Method Overloading.md",
     "230/Type Conversion.md",
@@ -202,8 +203,6 @@
     "215/OSI Stack.md",
     "220/Bellman-Ford Algorithm.md",
     "220/Dijkstra's Algorithm.md",
-    "220/Floyd's Algorithm.md",
-    "220/Kruskal's Algorithm.md",
     "EDUC121/~$24 EDUC 121 Week 8 STUDENT tutorial task FINAL.docx",
     "EDUC121/2024 EDUC 121 Week 8 STUDENT tutorial task FINAL.docx",
     "Flask",
