@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "235/UML.md",
+                "file": "316/Computer Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#gile",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,7 +163,10 @@
   },
   "active": "172f3095c3caae3b",
   "lastOpenFiles": [
+    "316/Computer Security.md",
     "235/UML.md",
+    "316",
+    "ECON151",
     "Pasted image 20240801155817.png",
     "235/Domain Modelling.md",
     "235/Git VCS.md",
@@ -207,8 +209,6 @@
     "EDUC121/2024 EDUC 121 Week 8 STUDENT tutorial task FINAL.docx",
     "Flask",
     "Javascript",
-    "z.images",
-    "a.images",
     "Untitled.canvas"
   ]
 }
