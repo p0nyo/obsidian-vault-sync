@@ -1,51 +1,22 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "path:210  ",
-      "color": {
-        "a": 1,
-        "rgb": 9052337
-      }
-    },
-    {
-      "query": "path:215  ",
-      "color": {
-        "a": 1,
-        "rgb": 2328354
-      }
-    },
-    {
-      "query": "path:220  ",
-      "color": {
-        "a": 1,
-        "rgb": 3236548
-      }
-    },
-    {
-      "query": "path:EDUC121  ",
-      "color": {
-        "a": 1,
-        "rgb": 13286433
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.40136311848958,
-  "lineSizeMultiplier": 5,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.576183094738762,
-  "repelStrength": 18.3495942372572,
-  "linkStrength": 0.83295340567156,
-  "linkDistance": 500,
-  "scale": 8,
-  "close": true
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.6068402476891611,
+  "close": false
 }

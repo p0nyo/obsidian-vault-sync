@@ -6,7 +6,6 @@
       {
         "id": "67e6dabe1fce04bd",
         "type": "tabs",
-        "dimension": 57.71670190274841,
         "children": [
           {
             "id": "24286e3f510a7dfe",
@@ -14,19 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "316/Computer Security.md",
+                "file": "316/Security Terms.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "632dacd52dadfef0",
-        "type": "tabs",
-        "dimension": 42.28329809725159,
-        "children": [
+          },
           {
             "id": "172f3095c3caae3b",
             "type": "leaf",
@@ -104,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "316/Security Terms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "316/Security Terms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "316/Security Terms.md"
+              }
             }
           }
         ]
@@ -161,9 +157,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "172f3095c3caae3b",
+  "active": "24286e3f510a7dfe",
   "lastOpenFiles": [
-    "316/Computer Security.md",
+    "316/Computer Security (CIA).md",
+    "316/Security Terms.md",
     "235/UML.md",
     "316",
     "ECON151",
@@ -204,7 +201,6 @@
     "210/Data Types.md",
     "215/OSI Stack.md",
     "220/Bellman-Ford Algorithm.md",
-    "220/Dijkstra's Algorithm.md",
     "EDUC121/~$24 EDUC 121 Week 8 STUDENT tutorial task FINAL.docx",
     "EDUC121/2024 EDUC 121 Week 8 STUDENT tutorial task FINAL.docx",
     "Flask",
