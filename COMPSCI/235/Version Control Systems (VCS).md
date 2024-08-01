@@ -15,3 +15,4 @@ links:
 - Other things that are required for the build
 **Distributed VCS**
 - Clients fully mirror the entire repository including its' history
+- Can fix a bug and then merge it back to codebase
