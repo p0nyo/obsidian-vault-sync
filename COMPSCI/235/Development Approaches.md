@@ -16,4 +16,3 @@ links:
 ![[Pasted image 20240731192518.png|400]]
 - Used when requirements are not well understood
 - To continually refine the system
-**

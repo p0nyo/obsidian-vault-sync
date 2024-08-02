@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "316/Security Terms.md",
+                "file": "235/Development Approaches.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "316/Security Terms.md",
+                "file": "235/Development Approaches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "316/Security Terms.md",
+                "file": "235/Development Approaches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "316/Security Terms.md"
+                "file": "235/Development Approaches.md"
               }
             }
           }
@@ -159,8 +159,10 @@
   },
   "active": "24286e3f510a7dfe",
   "lastOpenFiles": [
-    "316/Computer Security (CIA).md",
+    "235/Agile Development.md",
+    "235/Development Approaches.md",
     "316/Security Terms.md",
+    "316/Computer Security (CIA).md",
     "235/UML.md",
     "316",
     "ECON151",
@@ -171,13 +173,11 @@
     "Pasted image 20240801153530.png",
     "Pasted image 20240801152853.png",
     "235/Version Control Systems (VCS).md",
-    "235/Agile Development.md",
     "Pasted image 20240731195953.png",
     "Pasted image 20240731195858.png",
     "Pasted image 20240731195848.png",
     "Pasted image 20240731195748.png",
     "Pasted image 20240731194254.png",
-    "235/Development Approaches.md",
     "235/Software Development.md",
     "230/Promotions.md",
     "220/General Graph Traversal Algorithm.md",
