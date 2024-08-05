@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "235/Development Approaches.md",
+                "file": "316/OSI Security Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "235/Development Approaches.md",
+                "file": "316/OSI Security Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "235/Development Approaches.md",
+                "file": "316/OSI Security Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "235/Development Approaches.md"
+                "file": "316/OSI Security Architecture.md"
               }
             }
           }
@@ -159,9 +159,10 @@
   },
   "active": "24286e3f510a7dfe",
   "lastOpenFiles": [
-    "235/Agile Development.md",
-    "235/Development Approaches.md",
     "316/Security Terms.md",
+    "316/OSI Security Architecture.md",
+    "235/Development Approaches.md",
+    "235/Agile Development.md",
     "316/Computer Security (CIA).md",
     "235/UML.md",
     "316",
@@ -200,7 +201,6 @@
     "Javascript/Untitled.md",
     "210/Data Types.md",
     "215/OSI Stack.md",
-    "220/Bellman-Ford Algorithm.md",
     "EDUC121/~$24 EDUC 121 Week 8 STUDENT tutorial task FINAL.docx",
     "EDUC121/2024 EDUC 121 Week 8 STUDENT tutorial task FINAL.docx",
     "Flask",
