@@ -21,4 +21,32 @@ links:
 		- Steal IP from Bob
 	2. Replay
 		- Receiving message and relaying it
-
+	3. Message Modification
+	4. Denial of Service (DOS)
+		- Attacking and disabling the server, users can't use the service, overwhelm the server
+### Security Services
+1. **Authentication**
+	- Process to verify yourself
+2. **Access Control (Authorisation)**
+	- A technique used to regulate access to resources
+3. **Confidentiality**
+	- Protection of data
+4. **Data integrity**
+	- Ensuring received data is not tampered with
+5. **Non-repudiation**
+	- Protection against DOS
+6. **Availability**
+	- System always available to legit users 
+![[Pasted image 20240805195242.png]]
+### Security Mechanisms
+1. **Encryption**
+	- Encrypting messages
+2. **Digital Signature**
+	- Something to help validate authenticity
+3. **Access. Control**
+	- Enforcing access rights
+4. **Notarisation**
+	- Using trusted party to assure data exchange
+5. **Password**
+	- Secret word or phrase
+![[Pasted image 20240805195529.png]]
