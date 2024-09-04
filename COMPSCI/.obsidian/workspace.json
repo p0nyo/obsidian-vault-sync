@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "316/NZ Cyber Security Strategy.md",
+                "file": "316/Computer Security (CIA).md",
                 "mode": "source",
                 "source": false
               }
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f529f11f5b3bf5e0",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "316/NZ Cyber Security Strategy.md",
+                "file": "316/Computer Security (CIA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "316/NZ Cyber Security Strategy.md",
+                "file": "316/Computer Security (CIA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "316/NZ Cyber Security Strategy.md"
+                "file": "316/Computer Security (CIA).md"
               }
             }
           }
@@ -172,10 +171,11 @@
   },
   "active": "8aadcfe3717d9909",
   "lastOpenFiles": [
+    "316/Concolic Execution.md",
+    "316/NZ Cyber Security Strategy.md",
     "316/OSI Security Architecture.md",
     "316/Security Terms.md",
     "316/Computer Security (CIA).md",
-    "316/NZ Cyber Security Strategy.md",
     "316/GPDR.md",
     "Pasted image 20240805195529.png",
     "Pasted image 20240805195242.png",
@@ -213,7 +213,6 @@
     "TJC/Untitled",
     "TJC",
     "210/Global and Local.md",
-    "Javascript/Untitled.md",
     "EDUC121/~$24 EDUC 121 Week 8 STUDENT tutorial task FINAL.docx",
     "EDUC121/2024 EDUC 121 Week 8 STUDENT tutorial task FINAL.docx",
     "Flask",
