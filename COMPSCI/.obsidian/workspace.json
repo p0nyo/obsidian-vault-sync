@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "1d8f1bcbd7d83348",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
             "id": "172f3095c3caae3b",
             "type": "leaf",
             "pinned": true,
@@ -29,7 +39,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24286e3f510a7dfe",
+  "active": "1d8f1bcbd7d83348",
   "lastOpenFiles": [
     "316/NZ Cyber Security Strategy.md",
     "316/OSI Security Architecture.md",
