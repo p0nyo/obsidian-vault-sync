@@ -36,7 +36,7 @@ links:
 4. **Data integrity**
 	- Ensuring received data is not tampered with
 5. **Non-repudiation**
-	- Protection against DOS
+	- Protection against people denying they did something
 6. **Availability**
 	- System always available to legit users 
 ![[Pasted image 20240805195242.png]]
@@ -45,7 +45,7 @@ links:
 	- Encrypting messages
 2. **Digital Signature**
 	- Something to help validate authenticity
-3. **Access. Control**
+3. **Access Control**
 	- Enforcing access rights
 4. **Notarisation**
 	- Using trusted party to assure data exchange
