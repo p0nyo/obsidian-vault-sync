@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "1d8f1bcbd7d83348",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          },
-          {
             "id": "172f3095c3caae3b",
             "type": "leaf",
             "pinned": true,
@@ -38,9 +28,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "8aadcfe3717d9909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "316/OSI Security Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,17 +170,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d8f1bcbd7d83348",
+  "active": "8aadcfe3717d9909",
   "lastOpenFiles": [
+    "316/Security Terms.md",
+    "316/Computer Security (CIA).md",
     "316/NZ Cyber Security Strategy.md",
     "316/OSI Security Architecture.md",
     "316/GPDR.md",
     "Pasted image 20240805195529.png",
     "Pasted image 20240805195242.png",
-    "316/Security Terms.md",
     "235/Development Approaches.md",
     "235/Agile Development.md",
-    "316/Computer Security (CIA).md",
     "235/UML.md",
     "316",
     "ECON151",

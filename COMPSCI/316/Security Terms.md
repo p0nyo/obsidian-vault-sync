@@ -22,7 +22,7 @@ links:
 **Countermeasure**
 - An action, procedure or technique that reduces a threat by discovering, eliminating or preventing it
 **Risk**
-- The probability that a threat will exploit a vulnerability with a particular harmful result
+- The ==*probability*== that a threat will exploit a vulnerability with a particular harmful result
 **Security Policy**
 - A set of security rules and practice guidelines
 - Specify how a system or organisation provides security services

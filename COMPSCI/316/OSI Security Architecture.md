@@ -3,6 +3,8 @@ tags:
   - security
 links:
 ---
+*OSI: Open System Interconnection*
+
 1. **Security Attack**
 	- Action that compromises security of system or exchanged info
 2. **Security Service**
